@@ -7,6 +7,15 @@
 - `/opt/data/.hermes/workspace/moai-novel`에는 새 파일을 만들거나 수정하지 않는다.
 - Docker 마운트 기준: `/opt/data/workspace/moai-novel` = macOS `/Users/solutionhlp/Documents/agent-workspace/moai-novel`.
 
+## HARD RULE — 자동 Push
+
+- [HARD] 모든 작업 완료 시 **무조건** `git push` 까지 수행한다.
+- 작업 완료의 정의: 사용자 요청에 대한 응답으로 커밋이 생성된 모든 시점.
+- 예외 없음: 사용자가 명시적으로 "push 하지 마" 라고 한 경우에만 보류한다.
+- 순서: 커밋 → 즉시 `git push` → 결과 보고.
+- push 실패 시: 원인 진단 후 사용자에게 즉시 보고 (force push는 금지).
+- 커밋이 없는 작업(읽기/분석만 수행)은 push 대상이 아니다.
+
 ## 작업 원칙
 
 - 언어: 한국어.
