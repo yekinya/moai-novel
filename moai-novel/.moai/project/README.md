@@ -7,11 +7,24 @@
 | 경로 | 용도 | 내용 |
 |------|------|------|
 | `novel/` | 작품 핵심 설계 | 로그라인, 인물, 플롯 |
-| `world/` | 세계관·도메인 | 리투니아 대륙, 대현자, 마나/엔트로픽 농도, 생명 초기화 |
+| `world/` | 세계관·도메인 | 대륙 개요, 마나·엔트로픽, 신·법칙, 종족, 지리, 역사, 신화, 영웅 |
 | `systems/` | 작중 시스템 | 마법 체계, 전투 체계, 마법 원리·역사 |
 | `guides/` | 집필 가이드 | 작성 원칙, 용어집 |
 | `brand/` | (MoAI 기본) 톤·시각 정체성 — 향후 출판/홍보용 |
 | `db/` | (MoAI 기본) DB 메타데이터 — 본 프로젝트에선 미사용 |
+
+### world/ 세부
+
+- `lithunia-world-overview.md` — 세계관 진입점
+- `mana-and-entropic-density.md` — 물리 토대 (마나/엔트로픽 농도)
+- `life-reset-and-demon-war.md` — 생명 초기화와 신좌침묵
+- `lithunia-history.md` — 대륙사
+- `great-sage-and-entroper.md` — 대현자와 앤트로퍼
+- `pantheon.md` — 신=법칙 체계 (르세프/크세프 + 하위 법칙)
+- `creation-myth.md` — 사피엔이 믿는 창조 신화 vs 실제 마나 평형
+- `races.md` — 사피엔스/엘프/드래곤/드워프/오크/언데드/하플링/거인족/요정
+- `legendary-figures.md` — 행커만·일레인·스펠른 등 과거 대마법사
+- `geography.md` — 헤븐즈 킹덤·엘더스톰·강철제국·미드그레이드·무스페름 등
 
 ## 참조 순위 (충돌 시)
 

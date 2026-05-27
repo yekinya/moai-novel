@@ -48,6 +48,11 @@
 - [생명 초기화와 신좌침묵](.moai/project/world/life-reset-and-demon-war.md)
 - [리투니아 대륙사](.moai/project/world/lithunia-history.md)
 - [대현자와 앤트로퍼](.moai/project/world/great-sage-and-entroper.md)
+- [Pantheon — 신과 법칙](.moai/project/world/pantheon.md)
+- [창조 신화 — 표면 서사와 본질](.moai/project/world/creation-myth.md)
+- [종족](.moai/project/world/races.md)
+- [역사 속 영웅과 대마법사](.moai/project/world/legendary-figures.md)
+- [지리와 정치체](.moai/project/world/geography.md)
 
 ### 설계 스펙
 
