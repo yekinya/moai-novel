@@ -626,6 +626,9 @@
 | **드래곤 사회·영지** (9색·분파·폴리모프) | [`dragon-society.md`](./world/dragon-society.md) |
 | **이전 8왕국 멸망사** | [`lithunia-history.md`](./world/lithunia-history.md) |
 | **연표·달력** | [`timeline.md`](./world/timeline.md) · [`calendar-and-time.md`](./world/calendar-and-time.md) |
+| **주요 아티팩트·아이템 카탈로그** | [`artifacts.md`](./world/artifacts.md) |
+| **인물 심리·동기·대사 톤** | [`../novel/characters-psychology.md`](./novel/characters-psychology.md) |
+| **문체·서사 가이드 (스피디·유머·극적)** | [`../novel/style-guide.md`](./novel/style-guide.md) |
 
 ### 본작 회차별 등장 지명 빠른 표
 
@@ -729,7 +732,10 @@
 - [ ] *왜곡된 시야* 가 *서술자 묘사* 가 아닌 *카엘의 인지* 로만 노출되었는가?
 - [ ] 왕·고위 인물의 *모든 행동* 이 *방어·자비* 패턴으로 일관되는가?
 - [ ] 4-5 이전에 *앤트로퍼* 단어를 본문에 직접 쓰지 않았는가?
-- [ ] 호칭 사용 우선순위 (§13)를 지켰는가?
+- [ ] 호칭 사용 우선순위 (§15)를 지켰는가?
+- [ ] [`novel/style-guide.md §9`](./novel/style-guide.md#9-작가-체크리스트-회차-집필-후) **11개 항목** 모두 통과 (페이싱·유머·극적·시점·대사 톤)?
+- [ ] [`novel/characters-psychology.md §13`](./novel/characters-psychology.md#13-대사-일관성-체크리스트) **8개 항목** (인물별 대사 톤 일관성) 통과?
+- [ ] 등장 아티팩트 묘사가 [`world/artifacts.md`](./world/artifacts.md) 사양과 일치?
 
 ---
 
@@ -741,6 +747,8 @@
 ├── README.md
 ├── novel/
 │   ├── premise.md · plot.md · characters.md
+│   ├── characters-psychology.md            ← 인물별 심리·동기·대사 톤 심화
+│   ├── style-guide.md                      ← 문체·서사 가이드 (스피디·유머·극적)
 │   └── chapters/
 │       ├── README.md
 │       ├── 00-prologue.md
@@ -762,6 +770,7 @@
 │   ├── dragon-society.md                   ← 9색 드래곤 + 3대 분파 + 폴리모프
 │   ├── places-and-locations.md             ← 지명 통합 색인 + 카엘 여정 지도
 │   ├── culture-and-customs.md              ← 결혼·장례·축제·식·의복
+│   ├── artifacts.md                        ← 주요 아티팩트·아이템 카탈로그 (7비전·의수·루멘브링거 등)
 │   ├── antroper-lineage.md                 ← 16대 숙주
 │   ├── great-sage-and-entroper.md          ← 메커니즘
 │   ├── high-density-targets.md             ← 표적 우선순위
