@@ -6,6 +6,8 @@
 
 자세한 물리적 토대: [마나와 엔트로픽 농도](mana-and-entropic-density.md)
 신화로서의 표면 서사: [창조 신화](creation-myth.md)
+**종교 직분 (몽크·성기사·수녀·무녀·성직자) + 나라별 종파**: [`religious-orders.md`](./religious-orders.md)
+신성마법 시전 메커니즘: [`../systems/holy-magic.md`](../systems/holy-magic.md)
 
 ## 상위 두 법칙
 

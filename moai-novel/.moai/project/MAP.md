@@ -408,6 +408,15 @@
 
 심화: [`systems/holy-magic.md`](./systems/holy-magic.md)
 
+### 종교 직분 5종 + 나라별 종파
+
+- **5직분**: 몽크 (수행) / 성기사 (검) / 수녀 (결계·치유) / 무녀 (접신·예지) / 성직자 (모닝스타)
+- **상징 무기**: 모닝스타 — 성직자 직분 공식. 종파별 변형 6종
+- **나라별 종파**: 헤븐즈=르세프 본원교 / 엘더스톰=아샤스+일레인 추모 / 강철제국=아샤스+레코르 (검의 두 얼굴) / 카르샤=루멘 통합 (이그너스+저그넛+로렌+잉그리드 4축) / 마녀령=학카르 본원+9혈별 보조신 / 데미안=살라멘티+노바+재믹 (무역 신앙) / 상아탑=무신론 / 칠흑숲=엘라+룔
+- **카르샤 손 모음 인사** = 루멘 4축 의례의 대중화
+
+심화: [`world/religious-orders.md`](./world/religious-orders.md) · [`world/pantheon.md`](./world/pantheon.md)
+
 ### 전투 체계
 마나 강화 5단계: 순환 → 응집 → 외피 → 관통 → 공명
 
@@ -665,6 +674,7 @@
 │   ├── eight-kingdoms-ancient.md           ← 8왕국 (CC -3~0 원형)
 │   ├── eight-kingdoms-modern.md            ← 8왕국 현 후신 (CC 1000) 수도·왕가·참모
 │   ├── witch-eastern-council.md            ← 마녀령 9혈 원탁회의 16인
+│   ├── religious-orders.md                 ← 5직분 + 나라별 종파 + 모닝스타
 │   ├── antroper-lineage.md                 ← 16대 숙주
 │   ├── great-sage-and-entroper.md          ← 메커니즘
 │   ├── high-density-targets.md             ← 표적 우선순위
