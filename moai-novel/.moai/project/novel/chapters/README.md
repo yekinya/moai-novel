@@ -7,14 +7,16 @@
 | 파일 | 범위 | 회차 수 |
 |------|------|---------|
 | [`00-prologue.md`](./00-prologue.md) | 프롤로그: 옥좌의 방, 왕과의 최종 결투 | 1 |
-| [`part-1-cursed-child.md`](./part-1-cursed-child.md) | 1부 — 저주받은 아이 (출생~추방~연구 입문) | 5 |
+| [`part-1-cursed-child.md`](./part-1-cursed-child.md) | 1부 — 저주받은 아이 (출생~추방~폐허 마탑) | 5 |
+| [`part-1-5-wanderer.md`](./part-1-5-wanderer.md) | **1.5부 — 떠돌이의 길** (검객 막말 + 첫 의식적 살인 + 셀라리아 추천) | 4 |
 | [`part-2-tower-of-byseath.md`](./part-2-tower-of-byseath.md) | 2부 — 바이서스의 탑 (학도~왕실 마법 고문) | 6 |
 | [`part-3-mask-of-justice.md`](./part-3-mask-of-justice.md) | 3부 — 정의의 가면 (외교 파탄~선전포고) | 6 |
 | [`part-4-day-i-killed-king.md`](./part-4-day-i-killed-king.md) | 4부 — 왕을 죽인 날 (전쟁~각성, 프롤로그 합류) | 5 |
 | [`part-5-dragon-wrath.md`](./part-5-dragon-wrath.md) | 5부 — 드래곤의 분노 (저주 추적~드래곤 조우~상실) | 6 |
 | [`part-6-hunter.md`](./part-6-hunter.md) | 6부 — 추격자 (재기·잠복·이실 등장, 초반부 종결) | 7 |
 
-**초반부 총 36회차** (프롤로그 1 + 본편 35).
+**초반부 총 40회차** (프롤로그 1 + 본편 39).
+시놉시스 매크로: 4부 구조의 *Part 1 + Part 2 일부*. 자세한 시놉시스는 [`../synopsis.md`](../synopsis.md) 참조.
 
 ## 작업 규약
 

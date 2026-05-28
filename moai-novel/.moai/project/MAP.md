@@ -441,6 +441,14 @@
 - 풍습: 헤븐즈 *르세프 본원교* 평민 신앙 ([`culture §1`](./world/culture-and-customs.md#1-결혼-풍습) · [`religious-orders §3.1`](./world/religious-orders.md))
 - 핵심: 인지 왜곡의 5가지 원형 노출, 1-3 첫 살상 사고, 1-4 추방 + 부친의 책, 1-5 폐허 마탑 첫 마나 점화
 
+### 1.5부 — 떠돌이의 길 (1.5-1 ~ 1.5-4) — *신규*
+- 시점: CC 996~998 (17~18세), 변경 도로 → 미드그레이드
+- 지명: 변경 도로 + 가르엔 시장 마을 + 미드그레이드 (다종족 도시)
+- 인물: 카엘, 그라엔 (검객), 마린 (학자), 데르엔 (변경 시니어 셉터)
+- 핵심: 1.5-1 그라엔의 *눈은 죽은 자의 눈* 막말 + 1.5-2 도적 5인 학살 (**첫 의식적 살인**) + 1.5-3 마린의 *훔치는 자* 충고 + 1.5-4 데르엔이 카르엔 사이엔 앞 추천장 작성 (카엘은 *내용 모름*)
+- 마법 묘사: **카엘만의 비정통 시전법** — 정통 5단계가 아닌 *1단계 직관 시전*. 작고 빠르나 직격 정확도 비정상적
+- 유머: 떠돌이 검객·학자의 *막말 코미디* (사용자 선호 *유머* 반영)
+
 ### 2부 — 바이서스의 탑 (2-1 ~ 2-6)
 - 시점: CC 996~998
 - 지명: 셀라리아 — 외곽 연구소·왕립 연구원·왕궁 대전당 ([`modern §1`](./world/eight-kingdoms-modern.md#1-헤븐즈-킹덤--바이서스-왕가))
@@ -627,6 +635,7 @@
 | **이전 8왕국 멸망사** | [`lithunia-history.md`](./world/lithunia-history.md) |
 | **연표·달력** | [`timeline.md`](./world/timeline.md) · [`calendar-and-time.md`](./world/calendar-and-time.md) |
 | **주요 아티팩트·아이템 카탈로그** | [`artifacts.md`](./world/artifacts.md) |
+| **4부 매크로 시놉시스 + 성장 아크** | [`../novel/synopsis.md`](./novel/synopsis.md) |
 | **인물 심리·동기·대사 톤** | [`../novel/characters-psychology.md`](./novel/characters-psychology.md) |
 | **문체·서사 가이드 (스피디·유머·극적)** | [`../novel/style-guide.md`](./novel/style-guide.md) |
 
@@ -747,6 +756,7 @@
 ├── README.md
 ├── novel/
 │   ├── premise.md · plot.md · characters.md
+│   ├── synopsis.md                         ← **4부 매크로 시놉시스 + 성장 아크 + 적 진행 + 왕국 역학**
 │   ├── characters-psychology.md            ← 인물별 심리·동기·대사 톤 심화
 │   ├── style-guide.md                      ← 문체·서사 가이드 (스피디·유머·극적)
 │   └── chapters/
