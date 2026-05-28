@@ -687,8 +687,10 @@
 │       └── fragments.md                    ← 30+ 단편·격언·유언
 ├── systems/                                ← 시스템 (mechanics)
 │   ├── magic-system.md · magic-principles-history.md
-│   ├── holy-magic.md                       ← 균열의 빛·신성안
-│   ├── swordsmanship.md                    ← 4정통 + 공허검
+│   ├── holy-magic.md                       ← 균열의 빛·신성안·신내림
+│   ├── swordsmanship.md                    ← 4정통 + 공허검 + 소드 엠퍼러
+│   ├── military-doctrine.md                ← 병법 (국가별 + 공성·국지)
+│   ├── applied-magic.md                    ← 사회·문화·경제·정치·과학 응용
 │   └── combat-system.md
 ├── brand/ · db/ · guides/                  ← (보조)
 ```
