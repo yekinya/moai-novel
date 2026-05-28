@@ -5,7 +5,6 @@
 - 이 프로젝트의 **유일한 공식 작업 경로**는 `/opt/data/workspace/moai-novel`이다.
 - 소설 작업, 세계관 설계, 설정 문서, 원고, 분석자료는 반드시 이 경로 아래에만 작성/수정한다.
 - `/opt/data/.hermes/workspace/moai-novel`에는 새 파일을 만들거나 수정하지 않는다.
-- Docker 마운트 기준: `/opt/data/workspace/moai-novel` = macOS `/Users/solutionhlp/Documents/agent-workspace/moai-novel`.
 
 ## HARD RULE — 마법명·일반 용어 한국어 우선
 
