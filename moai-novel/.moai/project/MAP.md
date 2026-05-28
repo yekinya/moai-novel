@@ -675,6 +675,10 @@
 │   ├── eight-kingdoms-modern.md            ← 8왕국 현 후신 (CC 1000) 수도·왕가·참모
 │   ├── witch-eastern-council.md            ← 마녀령 9혈 원탁회의 16인
 │   ├── religious-orders.md                 ← 5직분 + 나라별 종파 + 모닝스타
+│   ├── demon-creatures.md                  ← 6대 마계 창조물 (잔재~마왕~균열 핵)
+│   ├── dragon-society.md                   ← 9색 드래곤 + 3대 분파 + 폴리모프
+│   ├── places-and-locations.md             ← 지명 통합 색인 + 카엘 여정 지도
+│   ├── culture-and-customs.md              ← 결혼·장례·축제·식·의복
 │   ├── antroper-lineage.md                 ← 16대 숙주
 │   ├── great-sage-and-entroper.md          ← 메커니즘
 │   ├── high-density-targets.md             ← 표적 우선순위
@@ -699,5 +703,24 @@
 
 ## 🔄 변경 이력
 
-- **v2.0** (CC 1000 봄): MAP.md 단일 통합 + 왕가 정식 명명 시스템 + 등장인물 전체 명단 + `lithunia-world-overview.md` 흡수
+- **v3.0** (CC 1000 봄, 최종): P2 잔여 항목 4개 완료 — 마계 창조물 / 드래곤 사회 / 지명 통합 / 문화·풍습. 본격 집필 진입 준비 완료
+- v2.5: 8왕국 v3.0 + 모르간 황가→9혈 원탁 / 종교 5직분 / 시스템 5종 (병법·응용·신성마법·검술 확장·마법 매트릭스) / 문헌 2권 본문 확장
+- v2.0: MAP.md 단일 통합 + 왕가 정식 명명 시스템 + 등장인물 전체 명단 + `lithunia-world-overview.md` 흡수
 - v1.0: 11개 세계관 문서 + 6부 회차 + 2개 시스템 문서 통합
+
+## ✅ 설계 완성도 점검 (CC 1000 v3.0)
+
+| 영역 | 파일 수 | 상태 |
+|------|--------|------|
+| World (lore) | 22 | ✅ P1·P2 완료 |
+| Systems (mechanics) | 5 | ✅ 완료 |
+| Literature (문헌) | 3 | ✅ 12권 + 30+ 단편 |
+| Novel (집필) | 11 (프리미스/플롯/인물/회차 8) | ✅ 초반부 36회차 골격 |
+| 내비게이션 | MAP.md 단일 | ✅ |
+| **총 파일** | **42** | **본격 집필 진입 가능** |
+
+남은 작업 (집필 진행 중 추가):
+- 본문 원고 (`novel/chapters/manuscripts/`)
+- 중·후반부 회차 설계 (마왕 강림 ~ 종결부)
+- 미정 인물 본격 등장 시 추가 (드래곤 로드 / 마왕 / 고요한 손 사제 등)
+- 새 문헌 단편 (집필 진행 중 fragments.md 추가)
