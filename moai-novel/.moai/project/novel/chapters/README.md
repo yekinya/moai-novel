@@ -1,6 +1,10 @@
-# 회차 구현 인덱스 — Part 1
+# 회차 구현 인덱스 — Chapter 1
 
-본 디렉터리는 *시놉시스 Part 1* (현 초반부 43회차) 의 회차 시나리오를 담는다. Part 2·3·4의 상위 spec은 [`../specs/`](../specs/) 참조.
+본 디렉터리는 *시놉시스 Chapter 1* (현 초반부 43회차) 의 회차 시나리오를 담는다. Chapter 2·3·4 회차 시나리오는 *spec 검토 + 사용자 승인 후* 추가.
+
+**용어**: Chapter = 매크로 대분류 (1~4) / Part = Chapter 안의 서브 단위.
+- 본 디렉터리의 *part-1-N.md* = Chapter 1의 Part N 의 회차 시나리오.
+- *Part 단위 짧은 spec (검증 단위)*: [`../specs/spec-chapter-1-part-N.md`](../specs/)
 
 **[필독]**:
 - 서사 사양: [`../narrative-devices.md`](../narrative-devices.md) (§7 회차별 자문 체크 통과 필수)
