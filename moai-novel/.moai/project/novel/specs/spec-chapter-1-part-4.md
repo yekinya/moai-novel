@@ -2,6 +2,8 @@
 
 > 회차 시나리오: [`../chapters/part-1-4.md`](../chapters/part-1-4.md)
 > Chapter 1 overview: [`./spec-chapter-1.md`](./spec-chapter-1.md)
+>
+> **이력**: v1 초안 → v2 (보강 — 카엘 진짜 마법 능력 §6 + 외전격 정체성 단편 §7 + 7회차 확장 + 5등급 부풀림·비상식 응용·금지 기술·살기 위압감)
 
 ## Summary
 

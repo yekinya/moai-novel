@@ -1,7 +1,9 @@
-# Chapter 1 Part 2 Spec: 떠돌이의 길 (v2 — 짠내·냄새 메타포·잡학 강화)
+# Chapter 1 Part 2 Spec: 떠돌이의 길
 
 > 회차 시나리오: [`../chapters/part-1-2.md`](../chapters/part-1-2.md) (동기화 필요)
 > Chapter 1 overview: [`./spec-chapter-1.md`](./spec-chapter-1.md)
+>
+> **이력**: v1 초안 → v2 (보강 — 호흡 메타포 → 냄새 메타포 통일·5단계 → 3단계 정통 마법·마나 양피지 매매 폐기·짠내 강화·잡학 다양성·작명 글라렌/엘/델란)
 
 ## Summary
 

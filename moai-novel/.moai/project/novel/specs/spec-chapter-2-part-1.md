@@ -1,7 +1,11 @@
 # Chapter 2 Part 1 Spec: 결전과 휴전
 
 > Chapter 2 overview: [`./spec-chapter-2.md`](./spec-chapter-2.md)
+>
+> **이력**: v1 초안 (검토 대기)
 > 본 Part는 *Chapter 1 종결 직후 즉시 시작*. 회차 시나리오 파일 미생성 — *본 spec이 첫 설계*.
+
+> **이력**: v1 초안 (검토 대기)
 
 ## Summary
 

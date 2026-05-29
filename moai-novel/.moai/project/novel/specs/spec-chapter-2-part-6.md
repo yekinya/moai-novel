@@ -1,6 +1,10 @@
 # Chapter 2 Part 6 Spec: 잔향의 도시 — 전환
 
 > Chapter 2 overview: [`./spec-chapter-2.md`](./spec-chapter-2.md)
+>
+> **이력**: v1 초안 (검토 대기)
+
+> **이력**: v1 초안 (검토 대기)
 
 ## Summary
 

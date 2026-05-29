@@ -1,6 +1,10 @@
 # Chapter 4 Part 9 Spec: 너는 무엇을 보고 있는가 — 본작 종결
 
 > Chapter 4 overview: [`./spec-chapter-4.md`](./spec-chapter-4.md)
+>
+> **이력**: v1 초안 (검토 대기)
+
+> **이력**: v1 초안 (검토 대기)
 
 ## Summary
 

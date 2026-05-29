@@ -1,6 +1,10 @@
 # Chapter 3 Part 2 Spec: 다섯 모루의 폭주
 
 > Chapter 3 overview: [`./spec-chapter-3.md`](./spec-chapter-3.md)
+>
+> **이력**: v1 초안 (검토 대기)
+
+> **이력**: v1 초안 (검토 대기)
 
 ## Summary
 

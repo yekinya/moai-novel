@@ -1,6 +1,10 @@
 # Chapter 4 Part 8 Spec: 마지막 협정 — 본작 최대 전투
 
 > Chapter 4 overview: [`./spec-chapter-4.md`](./spec-chapter-4.md)
+>
+> **이력**: v1 초안 (검토 대기)
+
+> **이력**: v1 초안 (검토 대기)
 
 ## Summary
 

@@ -2,6 +2,10 @@
 
 > 회차 시나리오: [`../chapters/00-prologue.md`](../chapters/00-prologue.md)
 > Chapter 1 overview: [`./spec-chapter-1.md`](./spec-chapter-1.md)
+>
+> **이력**: v1 초안 (검토 대기)
+
+> **이력**: v1 초안 (검토 대기)
 
 ## Summary
 

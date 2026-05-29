@@ -1,6 +1,10 @@
 # Chapter 2 Part 4 Spec: 그림자의 후계
 
 > Chapter 2 overview: [`./spec-chapter-2.md`](./spec-chapter-2.md)
+>
+> **이력**: v1 초안 (검토 대기)
+
+> **이력**: v1 초안 (검토 대기)
 
 ## Summary
 

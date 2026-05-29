@@ -1,6 +1,10 @@
 # Chapter 4 Part 4 Spec: 정령왕의 침묵
 
 > Chapter 4 overview: [`./spec-chapter-4.md`](./spec-chapter-4.md)
+>
+> **이력**: v1 초안 (검토 대기)
+
+> **이력**: v1 초안 (검토 대기)
 
 ## Summary
 

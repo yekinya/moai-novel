@@ -1,6 +1,10 @@
 # Chapter 2 Part 2 Spec: 9혈의 원탁
 
 > Chapter 2 overview: [`./spec-chapter-2.md`](./spec-chapter-2.md)
+>
+> **이력**: v1 초안 (검토 대기)
+
+> **이력**: v1 초안 (검토 대기)
 
 ## Summary
 
