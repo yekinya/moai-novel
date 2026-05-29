@@ -635,9 +635,14 @@
 | **이전 8왕국 멸망사** | [`lithunia-history.md`](./world/lithunia-history.md) |
 | **연표·달력** | [`timeline.md`](./world/timeline.md) · [`calendar-and-time.md`](./world/calendar-and-time.md) |
 | **주요 아티팩트·아이템 카탈로그** | [`artifacts.md`](./world/artifacts.md) |
-| **4부 매크로 시놉시스 + 성장 아크** | [`../novel/synopsis.md`](./novel/synopsis.md) |
+| **4부 매크로 시놉시스 (v2)** | [`../novel/synopsis.md`](./novel/synopsis.md) |
+| **Part 1 spec — 집필 직전 통합** | [`../novel/specs/part-1.md`](./novel/specs/part-1.md) |
+| **Part 2 spec — 결전·동맹·첫 표적** | [`../novel/specs/part-2.md`](./novel/specs/part-2.md) |
+| **Part 3 spec — 마왕·의수 정점** | [`../novel/specs/part-3.md`](./novel/specs/part-3.md) |
+| **Part 4 spec — 종결부** | [`../novel/specs/part-4.md`](./novel/specs/part-4.md) |
 | **인물 심리·동기·대사 톤** | [`../novel/characters-psychology.md`](./novel/characters-psychology.md) |
 | **문체·서사 가이드 (스피디·유머·극적)** | [`../novel/style-guide.md`](./novel/style-guide.md) |
+| **서사 사양 — 의식 분리·잔향·짠내·8축** | [`../novel/narrative-devices.md`](./novel/narrative-devices.md) |
 
 ### 본작 회차별 등장 지명 빠른 표
 
@@ -756,9 +761,15 @@
 ├── README.md
 ├── novel/
 │   ├── premise.md · plot.md · characters.md
-│   ├── synopsis.md                         ← **4부 매크로 시놉시스 + 성장 아크 + 적 진행 + 왕국 역학**
+│   ├── synopsis.md                         ← **4부 매크로 시놉시스 v2 (Part 1 = 현 43회차)**
 │   ├── characters-psychology.md            ← 인물별 심리·동기·대사 톤 심화
 │   ├── style-guide.md                      ← 문체·서사 가이드 (스피디·유머·극적)
+│   ├── narrative-devices.md                ← 서사 사양 (의식 분리·잔향·짠내·외모·8축 통합)
+│   ├── specs/                              ← **Part 단위 집필 직전 spec**
+│   │   ├── part-1.md                       ← Part 1 spec (현 43회차 통합 + 사용자 검토 포인트 7개)
+│   │   ├── part-2.md                       ← Part 2 spec (52회차 추정 + 검토 포인트 8개)
+│   │   ├── part-3.md                       ← Part 3 spec (62회차 추정 + 검토 포인트 8개)
+│   │   └── part-4.md                       ← Part 4 spec (61회차 추정 + 검토 포인트 10개)
 │   └── chapters/
 │       ├── README.md
 │       ├── 00-prologue.md
