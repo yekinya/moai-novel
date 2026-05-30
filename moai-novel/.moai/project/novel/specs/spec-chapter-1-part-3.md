@@ -3,7 +3,16 @@
 > 회차 시나리오: [`../chapters/part-1-3.md`](../chapters/part-1-3.md) (동기화 필요)
 > Chapter 1 overview: [`./spec-chapter-1.md`](./spec-chapter-1.md)
 >
-> **이력**: v1 초안 → v2 (보강 — 카르엔 야망·5써클·우발적 죽음·외곽 연구소 비정규·외교실 자문) → v3 (검토 답변 — 8회차 확장·카르엔 사고 명시·정치 인과·외전 단편·카르엔 7써클 시전 능력 유지·다리 절음·전쟁의 도구로 활용·감정 변화 3단 흐름) → v4 (보강 — §9 카르엔 외곽 연구소 *2대 연구 과제* 신설: 신체 마나 응축 매개체 + 드래곤 용언마법)
+> **이력**: v1 초안 → v2 (보강 — 카르엔 야망·5써클·우발적 죽음·외곽 연구소 비정규·외교실 자문) → v3 (검토 답변 — 8회차 확장·카르엔 사고 명시·정치 인과·외전 단편·카르엔 7써클 시전 능력 유지·다리 절음·전쟁의 도구로 활용·감정 변화 3단 흐름) → v4 (보강 — §9 카르엔 외곽 연구소 *2대 연구 과제* 신설: 신체 마나 응축 매개체 + 드래곤 용언마법) → v5 (공통 보강 — 이동동선 헤더 + 참조 레퍼런스 푸터)
+
+## 📍 이동동선·지리
+
+| 항목 | 값 |
+|------|-----|
+| **회차 시점 지명** | **헤븐즈 킹덤 수도 셀라리아 — 외곽 카르엔 외곽 연구소** (5년 상주) |
+| **이동동선** | 미드그레이드 → 셀라리아 외성문 (표식 등록) → **카르엔 외곽 연구소** (왕실 소속 한직 도서관, 본 Part 주된 무대 5년) ↔ 카르엔 서재 ↔ 외곽 연구소 정원·식당 |
+| **다음 행선** | Part 4 — 셀라리아 영빈관 + 외교실 비밀 분석실 + **세번 강** 변경 + 셀라리아 대학 강당 + 카르샤 변경 농가 (3-5) + 셀라리아 왕좌의 방 |
+| **지리적 핵심** | 셀라리아 = *헤븐즈 킹덤 수도 + 마법 학원도시 + 호수 섬 인공섬에 *국립상아탑*. 라카르 9세 (바이서스 가문) 왕좌. 카엘은 *외곽 한직* 만 — *왕립 연구원·왕궁 대전당 직접 등장 안 함*. 카르엔의 *우발적 죽음* 후 *라이세린의 흡수* 로 외곽 연구소 떠남 |
 
 ## Summary
 
@@ -378,3 +387,43 @@
 4. **`novel/characters.md` + `characters-psychology.md`** — 카르엔 사이엔 *옛 7써클 + 야망 + 1회성 카드 계획* 명시. 라이세린 *카엘 약점 무기화*
 5. **`world/artifacts.md`** — *검은 마법 메달 (왕실 마법 고문)* 폐기. *외곽 연구소 5써클 인증서* + *라이세린 외교실 자문 임명장* 으로 대체
 6. **`MAP.md`** — 카엘 호칭 *왕실 마법 고문 → 외교실 자문* 갱신
+
+---
+
+## 📚 참조 레퍼런스
+
+본 회차에 등장한 설정·인물·아티팩트·세계관 요소의 출처. 개연성 보증용.
+
+### 세계관·도메인
+
+- [`../../world/geography.md`](../../world/geography.md) — 셀라리아 (헤븐즈 킹덤 수도, 호수 섬 마법 학원도시)
+- [`../../world/lithunia-history.md`](../../world/lithunia-history.md) — 바이서스 라카르 9세 왕가·헤븐즈 입헌 군주 + 마법원 통치 구조
+- [`../../world/anti-sage-factions.md`](../../world/anti-sage-factions.md) — 카르엔 학파 야망·정치색 + 카르엔 사이엔 위치
+- [`../../world/great-sage-and-entroper.md`](../../world/great-sage-and-entroper.md) — 카엘의 5써클 도달 + 앤트로퍼 이득 (잔향 비뚤린 시야)
+- [`../../world/legendary-figures.md`](../../world/legendary-figures.md) — 카르엔 사이엔 (옛 7써클, 야망)
+- [`../../world/lithunia-world-overview.md`](../../world/lithunia-world-overview.md) — 헤븐즈 8왕국 + 국립상아탑 위계
+
+### 마법·전투 시스템
+
+- [`../../systems/magic-system.md`](../../systems/magic-system.md) — 5써클 마법 + 4중 효율 (양·회복·효율성·시전속도)
+- [`../../systems/magic-principles-history.md`](../../systems/magic-principles-history.md) — 카엘의 *외곽 연구소 5년 도서관 정독* — Part 6 *드래곤 영역 정보* + Part 5 *균열의 빛 즉발판* 의 출처
+- [`../../systems/combat-system.md`](../../systems/combat-system.md) — 외곽 연구소 *2대 연구 과제* (신체 마나 응축 매개체 + 드래곤 용언마법)
+
+### 인물
+
+- [`../characters.md`](../characters.md) — 카엘 / 카르엔 사이엔 (스승) / 라이세린 (외교실 자문 흡수) / 호스반 / 외곽 연구소 단편 인물
+- [`../characters-psychology.md`](../characters-psychology.md) — 카엘의 *5년 외로움 + 자기 부풀림* 심리 + 카르엔의 *야망 + 1회성 카드*
+
+### 서사·아티팩트
+
+- [`../synopsis.md`](../synopsis.md) — Part 3 회차 비트 (5년 압축)
+- [`../narrative-devices.md`](../narrative-devices.md) — *마시지 않은 차*·*표식 등록* 디테일
+- [`../style-guide.md`](../style-guide.md) — 5년 압축의 *생략과 누락* 톤
+- *친조부의 책* — Part 1-1 시드. 본 Part *반복 정독 + 첫 문장의 *부분 자각*
+- *외곽 연구소 5써클 인증서* + *라이세린 외교실 자문 임명장* (검은 마법 메달 폐기)
+
+### 본 Chapter 1 다른 spec
+
+- [`./spec-chapter-1.md`](./spec-chapter-1.md) — Chapter 1 마스터
+- [`./spec-chapter-1-part-2.md`](./spec-chapter-1-part-2.md) — 미드그레이드 도착 직후 후속
+- [`./spec-chapter-1-part-4.md`](./spec-chapter-1-part-4.md) — 외교실 자문 시작 후 선전포고

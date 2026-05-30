@@ -3,7 +3,16 @@
 > 회차 시나리오: [`../chapters/part-1-1.md`](../chapters/part-1-1.md)
 > Chapter 1 overview: [`./spec-chapter-1.md`](./spec-chapter-1.md)
 >
-> **이력**: v1 초안 → v2 (보강 — 가문 3대 라인·검은씨 자장가·부두인형·잔향 신체화·알린 약 캐리어 설정 확정)
+> **이력**: v1 초안 → v2 (보강 — 가문 3대 라인·검은씨 자장가·부두인형·잔향 신체화·알린 약 캐리어 설정 확정) → v3 (공통 보강 — 이동동선 헤더 + 참조 레퍼런스 푸터)
+
+## 📍 이동동선·지리
+
+| 항목 | 값 |
+|------|-----|
+| **회차 시점 지명** | **헤븐즈 킹덤 북서 외곽 — 노이엔 변경 마을** |
+| **이동동선** | 노이엔 마을 (출생·유년·성년식·추방) → **폐허 마탑** (마을에서 사흘 거리, 도보) |
+| **다음 행선** | Part 2 — 폐허 마탑 출발 → 변경 도로 → 가르엔 시장 마을 |
+| **지리적 핵심** | 노이엔 = *헤븐즈 킹덤의 가장 변두리*. 왕도·셀라리아와는 *수개월 도보 거리*. 폐허 마탑 = *과거 카르엔 학파 잠적 분파의 비밀 거점 추정* (친조부 알리스 가문 유산 시드) |
 
 ## Summary
 
@@ -222,3 +231,42 @@
 6. **`world/artifacts.md`** — *부두인형* 의 *단의 모친 유품* 명시 + 3대 양도 책 디테일
 
 위 8개 검토 포인트 답변 + 다른 문서 동기 업데이트를 *집필 직전* 처리 권장.
+
+---
+
+## 📚 참조 레퍼런스
+
+본 회차에 등장한 설정·인물·아티팩트·세계관 요소의 출처. 개연성 보증용.
+
+### 세계관·도메인
+
+- [`../../world/lithunia-world-overview.md`](../../world/lithunia-world-overview.md) — 리투니아 대륙 + 헤븐즈 킹덤 외곽
+- [`../../world/geography.md`](../../world/geography.md) — 노이엔 변경 위치·헤븐즈 행정 구조
+- [`../../world/mana-and-entropic-density.md`](../../world/mana-and-entropic-density.md) — 엔트로픽 농도 + *검은씨* 마을 옛 이름 매핑
+- [`../../world/great-sage-and-entroper.md`](../../world/great-sage-and-entroper.md) — 앤트로퍼·잔향·약 발현 캐리어 정통 (알린)
+- [`../../world/races.md`](../../world/races.md) — 인간 (헤븐즈 평민 변경계)
+- [`../../world/legendary-figures.md`](../../world/legendary-figures.md) — 친조부 알리스 + 친조모 이렐라 (카르엔 학파 잠적 분파)
+- [`../../world/literature/fragments.md`](../../world/literature/fragments.md) — *검은씨* 전승 단편
+
+### 마법·시스템
+
+- [`../../systems/magic-system.md`](../../systems/magic-system.md) — 마나 점화 (폐허 마탑 첫 점화)
+- [`../../systems/magic-principles-history.md`](../../systems/magic-principles-history.md) — *세상을 미워하는 자는 마나를 다루지 마라* 문장의 원 출처
+
+### 인물·서사
+
+- [`../characters.md`](../characters.md) — 카엘 / 알린 (부친) / 단 (친구) / 단의 모친 / 노이엔 마을 노인
+- [`../characters-psychology.md`](../characters-psychology.md) — 카엘 유년·알린 *침묵의 16년* 심리
+- [`../synopsis.md`](../synopsis.md) — Chapter 1 매크로 비트 표
+- [`../style-guide.md`](../style-guide.md) — 3인칭 근접 톤·잔향의 후각 메타포
+
+### 아티팩트
+
+- *친조부의 책* (= 그라스 카르엔 학파 잠적 분파 사본) — Part 4~6, Ch2 P1 회수
+- *부두인형* (단의 모친 유품) — Part 2 엘 인지 시드, Ch2 P1 가방 재발견
+
+### 본 Chapter 1 다른 spec
+
+- [`./spec-chapter-1.md`](./spec-chapter-1.md) — Chapter 1 마스터
+- [`./spec-chapter-1-prologue.md`](./spec-chapter-1-prologue.md) — *20년 전 변경의 어느 마을* = 본 Part 진입
+- [`./spec-chapter-1-part-2.md`](./spec-chapter-1-part-2.md) — 폐허 마탑 출발 직후 후속

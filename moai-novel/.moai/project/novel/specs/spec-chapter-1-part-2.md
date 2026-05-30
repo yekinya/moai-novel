@@ -3,7 +3,16 @@
 > 회차 시나리오: [`../chapters/part-1-2.md`](../chapters/part-1-2.md) (동기화 필요)
 > Chapter 1 overview: [`./spec-chapter-1.md`](./spec-chapter-1.md)
 >
-> **이력**: v1 초안 → v2 (보강 — 호흡 메타포 → 냄새 메타포 통일·5단계 → 3단계 정통 마법·마나 양피지 매매 폐기·짠내 강화·잡학 다양성·작명 글라렌/엘/델란)
+> **이력**: v1 초안 → v2 (보강 — 호흡 메타포 → 냄새 메타포 통일·5단계 → 3단계 정통 마법·마나 양피지 매매 폐기·짠내 강화·잡학 다양성·작명 글라렌/엘/델란) → v3 (공통 보강 — 이동동선 헤더 + 참조 레퍼런스 푸터)
+
+## 📍 이동동선·지리
+
+| 항목 | 값 |
+|------|-----|
+| **회차 시점 지명** | **헤븐즈 킹덤 변경 일대 → 미드그레이드 외곽** (북서 → 남동 방향, 약 1년의 떠돌이 동선) |
+| **이동동선** | 폐허 마탑 → 변경 도로 → **가르엔** 시장 마을 → **노이른** 객점 → 산속 모닥불 야영지 → **카르엔** 변경 시장 마을 → **미드그레이드** 외곽 (큰 도시) |
+| **다음 행선** | Part 3 — 미드그레이드 → **셀라리아** (헤븐즈 수도, 마법 학원도시) 진입 |
+| **지리적 핵심** | 변경 → 큰 도시로 *점진 이동*. 가르엔·노이른·카르엔 = *작은 시장 마을* — *길드 사무소 + 성소 + 약초 상점* 의 *반복 단편*. 미드그레이드 = 셀라리아 진입 직전 경유지 |
 
 ## Summary
 
@@ -235,3 +244,41 @@
 6. **`novel/synopsis.md`** — 회차 비트 표의 이름 갱신
 7. **`novel/chapters/README.md`** — 이름 변경 + 잡학 다양성 요약 반영
 8. **`MAP.md`** — 이름 변경 + 짠내 묘사 강화 반영
+
+---
+
+## 📚 참조 레퍼런스
+
+본 회차에 등장한 설정·인물·아티팩트·세계관 요소의 출처. 개연성 보증용.
+
+### 세계관·도메인
+
+- [`../../world/geography.md`](../../world/geography.md) — 가르엔·노이른·카르엔·미드그레이드 지리·교역 동선
+- [`../../world/lithunia-history.md`](../../world/lithunia-history.md) — 헤븐즈 변경 평민 경제 구조
+- [`../../world/great-sage-and-entroper.md`](../../world/great-sage-and-entroper.md) — 잔향의 *후각적 체감* (이상한 냄새)
+- [`../../world/races.md`](../../world/races.md) — 평민 떠돌이·길드 잡일 사회 구조
+
+### 마법·전투 시스템
+
+- [`../../systems/magic-system.md`](../../systems/magic-system.md) — 정통 *3단계 화염구* vs 자기만의 *1단계 직관 시전* 의 차이
+- [`../../systems/magic-principles-history.md`](../../systems/magic-principles-history.md) — 셉터 셈에 (학자 마린) 의 정통 마법 교습
+- [`../../systems/combat-system.md`](../../systems/combat-system.md) — 검객 글라렌·엘의 검술 톤
+
+### 인물
+
+- [`../characters.md`](../characters.md) — 카엘 / 글라렌 (검객) / 마린 (학자) / 엘 (여성 검사) / 델란 (변경 셉터) / 도적 5인
+- [`../characters-psychology.md`](../characters-psychology.md) — 엘의 *연민과 거리감* + *침묵으로 알아챔* 심리
+
+### 서사·아티팩트
+
+- [`../synopsis.md`](../synopsis.md) — Part 1-2 회차 비트 표
+- [`../narrative-devices.md`](../narrative-devices.md) — *호흡은 코로* 3중 반복 + *냄새* 메타포 (잔향 신체화)
+- [`../style-guide.md`](../style-guide.md) — 3인칭 근접·짠내 묘사
+- *부두인형* — [`./spec-chapter-1-part-1.md`](./spec-chapter-1-part-1.md) 출처. 엘이 침묵으로 알아챔
+- *친조부의 책* — [`./spec-chapter-1-part-1.md`](./spec-chapter-1-part-1.md) 3대 양도. 본 Part 카엘이 *반복 읽기 + 첫 문장 자각 시작*
+
+### 본 Chapter 1 다른 spec
+
+- [`./spec-chapter-1.md`](./spec-chapter-1.md) — Chapter 1 마스터
+- [`./spec-chapter-1-part-1.md`](./spec-chapter-1-part-1.md) — 폐허 마탑 첫 마나 점화 직후
+- [`./spec-chapter-1-part-3.md`](./spec-chapter-1-part-3.md) — 셀라리아 진입 직후 후속

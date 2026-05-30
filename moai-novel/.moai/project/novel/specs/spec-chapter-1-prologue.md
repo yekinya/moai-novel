@@ -3,9 +3,16 @@
 > 회차 시나리오: [`../chapters/00-prologue.md`](../chapters/00-prologue.md)
 > Chapter 1 overview: [`./spec-chapter-1.md`](./spec-chapter-1.md)
 >
-> **이력**: v1 초안 (검토 대기)
+> **이력**: v1 초안 → v2 (공통 보강 — 이동동선 헤더 + 참조 레퍼런스 푸터 추가)
 
-> **이력**: v1 초안 (검토 대기)
+## 📍 이동동선·지리
+
+| 항목 | 값 |
+|------|-----|
+| **회차 시점 지명** | **카르샤 제국 수도 세이렌 — 왕궁 백색 회랑 + 옥좌의 방** |
+| **이동동선** | (없음 — *in medias res* 시작점. 회랑 → 옥좌의 방 *단일 진입선*) |
+| **다음 행선** | (시간 도약 — *20년 전, 변경의 어느 마을* = Part 1 노이엔 변경. *지리적 이동 아님 — 시간선 점프*) |
+| **지리적 핵심** | 카르샤 제국 수도 = *헤븐즈 8왕국 중 카르샤 신성제국 중추*. 바이서스와 *세번 강 국경* 으로 마주봄. 본 프롤로그는 *암살된 알레이언 6세의 옥좌의 방* |
 
 ## Summary
 
@@ -66,3 +73,40 @@
 > **「20년 전, 변경의 어느 마을.」**
 
 → Part 1 (저주받은 아이) 즉시 진입.
+
+---
+
+## 📚 참조 레퍼런스
+
+본 회차에 등장한 설정·인물·아티팩트·세계관 요소의 출처. 개연성 보증용.
+
+### 세계관·도메인
+
+- [`../../world/lithunia-world-overview.md`](../../world/lithunia-world-overview.md) — 리투니아 대륙 개요
+- [`../../world/lithunia-history.md`](../../world/lithunia-history.md) — 카르샤 신성제국·바이서스 왕국 관계 (세번 강 국경)
+- [`../../world/geography.md`](../../world/geography.md) — 세이렌 수도 위치·왕궁 백색 회랑
+- [`../../world/pantheon.md`](../../world/pantheon.md) — 카르샤 신성 신앙 + 손 모음 문장 (왕가 벽화)
+- [`../../world/great-sage-and-entroper.md`](../../world/great-sage-and-entroper.md) — 앤트로퍼·금제 사슬 정통 (붉은 사슬 7마디)
+
+### 마법·전투 시스템
+
+- [`../../systems/magic-system.md`](../../systems/magic-system.md) — 즉발판(균열의 빛) 시전 메커니즘 + 시전자 사망 비가역성
+- [`../../systems/combat-system.md`](../../systems/combat-system.md) — 5합 호각 결투 + 신성안 정통
+- [`../../systems/magic-principles-history.md`](../../systems/magic-principles-history.md) — *너는 무엇을 보고 있는가* 의 원리 출처
+
+### 인물
+
+- [`../characters.md`](../characters.md) — 카엘 / 카르샤 알레이언 6세 / 카일렌 베르하르트 경
+- [`../characters-psychology.md`](../characters-psychology.md) — 카엘 *0.5초 자각의 창* 심리 정통
+
+### 서사·플롯
+
+- [`../synopsis.md`](../synopsis.md) — 시놉시스 대분류 Chapter 1 매크로
+- [`../plot.md`](../plot.md) — 본작 *in medias res* 개막 결단
+- [`../narrative-devices.md`](../narrative-devices.md) — *얇은 금속음*·*가장자리 이중상*·회상 4컷 패턴
+- [`../style-guide.md`](../style-guide.md) — 1인칭·짧은 호흡·정보 덤프 금지
+
+### 본 Chapter 1 다른 spec
+
+- [`./spec-chapter-1.md`](./spec-chapter-1.md) — Chapter 1 마스터 (43→38회차 재정의)
+- [`./spec-chapter-1-part-5.md`](./spec-chapter-1-part-5.md) — 4-4 옥좌의 방 5합 결투 본편 (프롤로그가 in medias res 로 미리 보여준 사건의 본격 회수)

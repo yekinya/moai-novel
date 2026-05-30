@@ -3,6 +3,8 @@
 > 본 문서는 *마법의 발현 원리 + 수련법 + 전투 응용 + 등급의 진실* 통합 사양서.
 >
 > 원리·역사: [`magic-principles-history.md`](./magic-principles-history.md)
+
+> **v2 sync (2026-05-30, Ch1 종결)**: 신규 항목 추가 예정 — *드래곤 용언마법 3종* (풍압의 칼·바람의 길·잔상환술. Ch1 P6 5-5 카자르드 시전 정통) + *카르샤 신성제국 왕가 비전 신성마법* (회복·물·침습·독 내성·독 해독. 세파 공주 4써클 신관 등급) + *엔트로퍼 금제 균열 메커니즘* (Ch1 P6 4회 발현 + Ch2 P1 50% 잔향 약화의 *생리적 자동 작동*). 깊은 정통 통합은 *Chapter 2 spec 정의 시점에 본 문서 본격 갱신*. 현 시점은 [`../novel/specs/spec-chapter-1-part-6.md`](../novel/specs/spec-chapter-1-part-6.md) §5 + [`../novel/specs/spec-chapter-2-part-1.md`](../novel/specs/spec-chapter-2-part-1.md) §5 가 canonical.
 > 검술: [`swordsmanship.md`](./swordsmanship.md) (기사 ↔ 마법사 우위 상세)
 > 신성마법: [`holy-magic.md`](./holy-magic.md)
 > 전투 원리: [`combat-system.md`](./combat-system.md)
