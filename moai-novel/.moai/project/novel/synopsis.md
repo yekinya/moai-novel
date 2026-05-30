@@ -6,7 +6,7 @@
 >
 > **v4 정정 (2026-05-30)**: *Chapter 1 종결 시점 = Part 6 5-5 공중 발길질 직후 암전* (Part 7 결전 편지 폐기 → Ch2 P1 합산). Chapter 1 = 약 38회차 (43→38). Chapter 2 = 8 Part (7→8). 드래곤 정통 정정 — *몬스터 자연 회피 구배* + *드래곤 추격 동기 = 영역 정통 미완 + 앤트로퍼 기색 확인 (이실 폴리모프 캐논 폐기)*.
 >
-> 회차 단위 시나리오 (Chapter 1만): [`chapters/`](./chapters/) (프롤로그 + part-1-1 ~ part-1-6)
+> 회차 단위 시나리오: ~~chapters/~~ **폐기 (2026-05-30) — spec-chapter-{x}-part-{y}.md 가 self-contained 단일 출처**
 > Chapter 단위 *굵은* spec: [`specs/spec-chapter-1.md`](./specs/spec-chapter-1.md) ~ [`spec-chapter-4.md`](./specs/spec-chapter-4.md)
 > **Part 단위 *짧은* spec (검증 단위)**: [`specs/spec-chapter-N-part-M.md`](./specs/) — Chapter 1: 프롤로그+6 / Chapter 2: 8 / Chapter 3: 8 / Chapter 4: 9
 > 인물 심리: [`characters-psychology.md`](./characters-psychology.md)
@@ -503,7 +503,7 @@
 
 ## 참조 문서
 
-- [`chapters/`](./chapters/) — 회차 시나리오 (현재 초반부 1~6부 36회차)
+- *chapters/ 디렉터리 폐기 (2026-05-30) — spec-chapter-{x}-part-{y}.md 가 회차 비트·서사 장치·어휘 가이드 모두 self-contained 보유*
 - [`characters-psychology.md`](./characters-psychology.md) — 인물 심리·동기
 - [`style-guide.md`](./style-guide.md) — 문체·서사 가이드
 - [`../world/great-sage-and-entroper.md`](../world/great-sage-and-entroper.md) — 앤트로퍼 DNA 캐리어 모델 (재정의)

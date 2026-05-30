@@ -3,7 +3,7 @@
 > *스피디한 페이싱 + 중간중간 유머 + 극적 서사·대사* 의 3원칙을 본문 집필에 적용하는 구체 사양.
 >
 > 회차 톤 매트릭스: [`../MAP.md §16`](../MAP.md#16-집필-톤문체-가이드)
-> 프롤로그 어휘 가이드: [`chapters/00-prologue.md#어휘문체-가이드`](./chapters/00-prologue.md#어휘문체-가이드)
+> 프롤로그 어휘 가이드: [`specs/spec-chapter-1-prologue.md`](./specs/spec-chapter-1-prologue.md) — 본 spec 내 *어휘·문체 가이드* 섹션 (chapters/ 흡수 후 2026-05-30)
 
 ---
 
@@ -370,7 +370,7 @@
 ## 10. 참조 문서
 
 - [`../MAP.md §16`](../MAP.md#16-집필-톤문체-가이드) — 회차 톤 매트릭스 요약
-- [`chapters/00-prologue.md`](./chapters/00-prologue.md) — 프롤로그 어휘 가이드 (참고 표준)
+- [`specs/spec-chapter-1-prologue.md`](./specs/spec-chapter-1-prologue.md) — 프롤로그 어휘 가이드 (참고 표준, chapters/ 흡수 후)
 - [`characters.md`](./characters.md) — 인물 기본 명단
 - [`characters-psychology.md`](./characters-psychology.md) — 인물 심리·동기 심화
 - [`../world/literature/fragments.md`](../world/literature/fragments.md) — 막간 단편 풀
