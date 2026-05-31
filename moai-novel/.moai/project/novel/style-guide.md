@@ -369,6 +369,7 @@
 
 ## 10. 참조 문서
 
+- [`prose-examples.md`](./prose-examples.md) — **집필 시점 *묘사 예시* 상시 참조 파일 (배경·인물·전투·카엘 말투 4대 원칙 + 예시집)**
 - [`../MAP.md §16`](../MAP.md#16-집필-톤문체-가이드) — 회차 톤 매트릭스 요약
 - [`specs/spec-chapter-1-prologue.md`](./specs/spec-chapter-1-prologue.md) — 프롤로그 어휘 가이드 (참고 표준, chapters/ 흡수 후)
 - [`characters.md`](./characters.md) — 인물 기본 명단
