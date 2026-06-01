@@ -58,10 +58,26 @@
 
 ## HARD RULE 절차
 
-1. **작성 전 점검**: 본 PROGRESS.md를 *반드시 먼저 확인*. 대상 파일이 🔒 LOCKED인 경우 *작성 거부 + 사용자에게 보고*
-2. **신규 작성 후**: 본 PROGRESS.md의 *상태 행 + 분량 + 이력 행* 자동 갱신
-3. **LOCKED 해제**: 사용자가 *명시적으로 *해제 지시*해야만 가능. 임의 해제 금지
-4. **부분 수정**: LOCKED 파일에 *오타·문법 발견* 시에도 *수정 금지*. 사용자에게 *보고만* 하고 결정 대기
+1. **작성 전 점검 — 3중 확인 필수**:
+   - (1) 본 PROGRESS.md 확인 — 대상 파일이 🔒 LOCKED인 경우 *작성 거부 + 사용자 보고*
+   - (2) **spec 확인** — `.moai/project/novel/specs/spec-chapter-{N}-part-{M}.md` *반드시* 먼저 읽기
+   - (3) spec의 *회차 구성·핵심 비트·인물·금지 항목·종결 후크* 모두 반영 준비
+2. **본문 = spec 구현** (사용자 HARD):
+   - spec의 *모든 비트·대사·시드·아티팩트·인물 등장 시점* 빠짐없이 구현
+   - *부 단위 약속·금지 항목·narrative-devices* 위반 금지
+   - 충돌 시 사용자 보고 후 결정
+3. **신규 작성 후 양방향 sync**:
+   - 본문 작성 직후 PROGRESS.md *상태 + 분량 + 이력* 갱신
+   - 본문에 *spec에 없던 새 정통·대사·인물·아티팩트* 추가 시 — *즉시 spec sync*
+   - 사용자가 본문 직접 수정 시에도 *spec 갱신 필수*
+4. **LOCKED 해제**: 사용자 *명시 해제 지시*만 가능. 임의 해제 금지
+5. **부분 수정**: LOCKED 파일 오타·문법 발견 시에도 *수정 금지·보고만*
+
+### spec sync 대상
+
+- 1차: `spec-chapter-{N}-part-{M}.md` (해당 회차)
+- 2차: `spec-chapter-{N}.md` (Chapter 마스터)
+- 영향 시: `novel/characters.md`·`characters-psychology.md`·`narrative-devices.md`·`world/*.md`·`systems/*.md`
 
 ---
 

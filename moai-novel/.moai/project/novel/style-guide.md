@@ -296,6 +296,54 @@
 - 마크다운 헤더·구분선 (`---`) 포함
 - 직접 인용 (작은따옴표·큰따옴표) 모두 포함
 
+### 6.1c 본문 ↔ spec 정합·sync HARD RULE [사용자 정의]
+
+> 본 RULE은 **사용자 정의 HARD RULE**. 본문 집필은 *spec의 구현*이며, 양방향 sync가 보장되어야 한다.
+
+#### HARD 절차
+
+1. **본문 작성 전 — spec 확인 필수**
+   - 본문 파일 `contents/chapter{N}/{M}-part-{M}.md` 작성 시
+   - *반드시* `.moai/project/novel/specs/spec-chapter-{N}-part-{M}.md` 먼저 읽고
+   - spec의 *회차 구성·핵심 비트·인물 캐스팅·이동동선·금지 항목·종결 후크* 모두 반영
+
+2. **본문 = spec 구현**
+   - spec에 정의된 *모든 비트·대사·시드·아티팩트·인물 등장 시점*을 본문에 빠짐없이 구현
+   - spec의 *부 단위 약속·금지 항목·narrative-devices*을 본문에서 위반 금지
+   - spec과 본문이 충돌하면 → *사용자에게 보고 후 결정*
+
+3. **본문 작성 후 — spec sync**
+   - 본문 작성 중 *spec에 없던 새 정통·대사·인물·아티팩트* 발생 시
+   - *반드시* spec 파일을 즉시 갱신하여 *단일 출처 (Single Source of Truth) 유지*
+   - 사용자가 본문을 직접 수정한 경우에도 → *spec 갱신 필수*
+   - sync 누락 시 *향후 작품 정통 훼손* 위험
+
+4. **sync 대상 spec**
+   - 1차: `spec-chapter-{N}-part-{M}.md` (해당 회차 spec)
+   - 2차 — 영향 받는 모든 spec:
+     - `spec-chapter-{N}.md` (Chapter 마스터)
+     - `novel/characters.md` / `characters-psychology.md` (인물 시드 변경 시)
+     - `novel/narrative-devices.md` (서사 장치 변경 시)
+     - `world/*.md` / `systems/*.md` (세계관·시스템 정통 변경 시)
+
+#### 정합 체크리스트 (집필 후 즉시)
+
+- [ ] spec의 회차 구성 모든 비트가 본문에 등장
+- [ ] spec의 인물 캐스팅 모든 인물 등장·언급
+- [ ] spec의 *금지 항목* 위반 없음 (예: *저주* 단어 등장 금지·*잔향* 단어 미등장 등)
+- [ ] spec의 *부 단위 약속* 단서 누설 비율 일치
+- [ ] spec의 narrative-devices 모두 본문 적용
+- [ ] 본문에 *새 정통·대사·인물 추가 시* spec sync 완료
+- [ ] PROGRESS.md 상태 행 + 분량 + 이력 행 갱신 완료
+
+#### 위반 시 처리
+
+- 본문 ↔ spec 불일치 발견 → *작성 즉시 중단·사용자 보고*
+- 임의 *spec 무시 + 본문만 작성* 금지
+- 임의 *본문만 수정 + spec 미갱신* 금지
+
+---
+
 ### 6.1b 작성 완료 잠금 HARD RULE [사용자 정의]
 
 > 본 RULE은 **사용자 정의 HARD RULE**. 위반 = 작품 정통 훼손.
