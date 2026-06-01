@@ -2,7 +2,7 @@
 
 > 본 파일은 [`style-guide.md`](./style-guide.md)의 *원칙*을 *집필 직전 즉시 꺼내 쓸 수 있는 묘사 예시*로 구체화한 것이다. 매 회차 집필 전 반드시 참조한다.
 >
-> 출처·연계: [`style-guide.md`](./style-guide.md), [`characters.md`](./characters.md), [`characters-psychology.md`](./characters-psychology.md), [`narrative-devices.md`](./narrative-devices.md), [`../world/races.md`](../world/races.md)
+> 출처·연계: [`style-guide.md`](./style-guide.md), [`characters.md`](./characters.md), [`characters-psychology.md`](./characters-psychology.md), [`narrative-devices.md`](./narrative-devices.md), [`../world/04-종족과-문화.md`](../world/04-종족과-문화.md)
 
 ---
 
@@ -449,7 +449,7 @@
 3. [`characters.md`](./characters.md) — 인물별 대사 톤 표
 4. [`characters-psychology.md`](./characters-psychology.md) — 카엘 시기별 심리 곡선
 5. [`narrative-devices.md`](./narrative-devices.md) — 잔향·이중상 등 신체적 표지
-6. [`../world/races.md`](../world/races.md) — 종족 배경 처리 강령
+6. [`../world/04-종족과-문화.md`](../world/04-종족과-문화.md) — 종족 배경 처리 강령
 
 ---
 

@@ -184,15 +184,15 @@
 
 ### 세계관·도메인
 - [`../../world/lithunia-world-overview.md`](../../world/lithunia-world-overview.md) — 리투니아 대륙 개요
-- [`../../world/lithunia-history.md`](../../world/lithunia-history.md) — 카르샤·바이서스 관계 (세번 강 국경)
-- [`../../world/geography.md`](../../world/geography.md) — 세이렌 수도·왕궁 백색 회랑
-- [`../../world/pantheon.md`](../../world/pantheon.md) — 카르샤 신성 신앙·손 모음 문장 (왕가 벽화)
-- [`../../world/great-sage-and-entroper.md`](../../world/great-sage-and-entroper.md) — 앤트로퍼 금제 사슬 (붉은 사슬 7마디)
+- [`../../world/02-역사와-연표.md`](../../world/02-역사와-연표.md) — 카르샤·바이서스 관계 (세번 강 국경)
+- [`../../world/03-지리와-장소.md`](../../world/03-지리와-장소.md) — 세이렌 수도·왕궁 백색 회랑
+- [`../../world/08-종교와-신앙.md`](../../world/08-종교와-신앙.md) — 카르샤 신성 신앙·손 모음 문장 (왕가 벽화)
+- [`../../world/09-대현자와-엔트로퍼.md`](../../world/09-대현자와-엔트로퍼.md) — 앤트로퍼 금제 사슬 (붉은 사슬 7마디)
 
 ### 마법·전투 시스템
-- [`../../systems/magic-system.md`](../../systems/magic-system.md) — 즉발판 (균열의 빛) + 시전자 사망 비가역
-- [`../../systems/combat-system.md`](../../systems/combat-system.md) — 5합 호각 결투 + 신성안
-- [`../../systems/magic-principles-history.md`](../../systems/magic-principles-history.md) — *너는 무엇을 보고 있는가* 의 원리 출처
+- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — 즉발판 (균열의 빛) + 시전자 사망 비가역
+- [`../../systems/07-전투-시스템.md`](../../systems/07-전투-시스템.md) — 5합 호각 결투 + 신성안
+- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — *너는 무엇을 보고 있는가* 의 원리 출처
 
 ### 인물
 - [`../characters.md`](../characters.md) — 카엘 / 알레이언 6세 / 카일렌 베르하르트

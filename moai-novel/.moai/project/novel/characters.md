@@ -147,7 +147,7 @@
 - **카이엔과의 관계**: 6-3 사사 요청. *호의 이상* 을 느낌. 카이엔의 *인간성을 흔드는 변수*
 - **6-7 카이엔의 작별검 수령**: 그 검을 *마녀령 주전파(적혈 + 회혈)에게 들이대는* 별개 정치 파장 시드. 9혈 원탁의 *균형 파괴 가능성*
 
-상세: [`../world/witch-eastern-council.md`](../world/witch-eastern-council.md)
+상세: [`../world/12-마녀령-동부.md`](../world/12-마녀령-동부.md)
 
 ## 세이른 스틸만 (Seirn Steelman)
 
@@ -354,11 +354,11 @@
 
 ## 인물 설계 외부 참조
 
-- 역사 영웅 8인: [`../world/legendary-figures.md`](../world/legendary-figures.md)
-- 신좌침묵 8왕: [`../world/eight-kingdoms-ancient.md`](../world/eight-kingdoms-ancient.md)
-- 사프란과 7제자: [`../world/great-sages-lineage.md`](../world/great-sages-lineage.md)
-- 종족·신앙: [`../world/races.md`](../world/races.md) · [`../world/pantheon.md`](../world/pantheon.md)
-- 역대 앤트로퍼 16대: [`../world/antroper-lineage.md`](../world/antroper-lineage.md)
+- 역사 영웅 8인: [`../world/14-전설-인물.md`](../world/14-전설-인물.md)
+- 신좌침묵 8왕: [`../world/05-팔왕국-고대와-현대.md`](../world/05-팔왕국-고대와-현대.md)
+- 사프란과 7제자: [`../world/09-대현자와-엔트로퍼.md`](../world/09-대현자와-엔트로퍼.md)
+- 종족·신앙: [`../world/04-종족과-문화.md`](../world/04-종족과-문화.md) · [`../world/08-종교와-신앙.md`](../world/08-종교와-신앙.md)
+- 역대 앤트로퍼 16대: [`../world/09-대현자와-엔트로퍼.md`](../world/09-대현자와-엔트로퍼.md)
 
 ---
 

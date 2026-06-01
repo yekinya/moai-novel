@@ -56,7 +56,7 @@
 - 리셋의 표면 현상 = *마계 침공* + *언데드 출현* + *마나 역류*.
 - 본질 = *자연의 면역반응*. 악의 침공이 아니다.
 
-심화: [`world/mana-and-entropic-density.md`](./world/mana-and-entropic-density.md) · [`world/life-reset-and-demon-war.md`](./world/life-reset-and-demon-war.md)
+심화: [`world/10-마계와-리셋.md`](./world/10-마계와-리셋.md) · [`world/10-마계와-리셋.md`](./world/10-마계와-리셋.md)
 
 ### 앤트로퍼 시스템
 
@@ -66,7 +66,7 @@
 - 이득: 마나 효율 ↑, 기술 탐구 ↑, 고통 역치 ↑, 살상 직관 ↑.
 - 충동: *강해지지 않으면 불안* — 야망·정의감으로 합리화되어 *살인 갈망* 으로 외화.
 
-심화: [`world/great-sage-and-entroper.md`](./world/great-sage-and-entroper.md)
+심화: [`world/09-대현자와-엔트로퍼.md`](./world/09-대현자와-엔트로퍼.md)
 
 ### 사프란의 *진짜 의도* — 변질의 비극
 
@@ -78,7 +78,7 @@
 
 8왕국이 분열하면서 후대 앤트로퍼는 *3차 표적 일반 학살* 만 수행하도록 *변질* 됐다. 본작 카엘의 1~3부 학살이 이 변질의 정점.
 
-심화: [`world/high-density-targets.md`](./world/high-density-targets.md) · [`world/dragons-and-reset.md`](./world/dragons-and-reset.md)
+심화: [`world/10-마계와-리셋.md`](./world/10-마계와-리셋.md) · [`world/11-드래곤-사회와-리셋.md`](./world/11-드래곤-사회와-리셋.md)
 
 ---
 
@@ -112,7 +112,7 @@
 | **CC 1000 봄** | **본작 프롤로그 = 옥좌의 방**. |
 | CC 1000~1001 | 5~6부 진행. |
 
-심화: [`world/timeline.md`](./world/timeline.md) · [`world/calendar-and-time.md`](./world/calendar-and-time.md)
+심화: [`world/02-역사와-연표.md`](./world/02-역사와-연표.md) · [`world/02-역사와-연표.md`](./world/02-역사와-연표.md)
 
 ---
 
@@ -149,9 +149,9 @@
 ## 5. 8왕국 ↔ 현대 후신 매트릭스 (정식 가문명 포함)
 
 > **현 시점 (CC 1000) 의 8왕국 후신 + 정식 왕가 성씨 + 현 통치자 + 수도**.
-> 자세한 왕국 정체성·역사: [`world/eight-kingdoms-ancient.md`](./world/eight-kingdoms-ancient.md)
-> 현 후신 수도·왕가 직계·참모 상세: [`world/eight-kingdoms-modern.md`](./world/eight-kingdoms-modern.md)
-> 마녀령 9혈 원탁 상세: [`world/witch-eastern-council.md`](./world/witch-eastern-council.md)
+> 자세한 왕국 정체성·역사: [`world/05-팔왕국-고대와-현대.md`](./world/05-팔왕국-고대와-현대.md)
+> 현 후신 수도·왕가 직계·참모 상세: [`world/05-팔왕국-고대와-현대.md`](./world/05-팔왕국-고대와-현대.md)
+> 마녀령 9혈 원탁 상세: [`world/12-마녀령-동부.md`](./world/12-마녀령-동부.md)
 
 | # | 신좌침묵 왕국 | 운명 | 현 후신 | 수도 | 왕조 성씨 | 현 통치자 (CC 1000) |
 |---|--------------|------|---------|------|----------|---------------------|
@@ -303,7 +303,7 @@
 > **본작 후반에 7조각 중 4조각이 카엘 주변에 모인다** (카르엔 학파 2 + 카르샤 왕가 1 + 그라스 1).
 > 사프란이 *7조각이 다시 모이면 위험* 하다고 한 이유 — 후반부 떡밥.
 
-심화: [`world/great-sages-lineage.md`](./world/great-sages-lineage.md)
+심화: [`world/09-대현자와-엔트로퍼.md`](./world/09-대현자와-엔트로퍼.md)
 
 ---
 
@@ -337,7 +337,7 @@
 3. 드래곤 로드가 *첫 적극 개입* 을 결정한 자.
 4. 비정상적 회로 효율을 가진 *현자급* 잠재.
 
-심화: [`world/antroper-lineage.md`](./world/antroper-lineage.md)
+심화: [`world/09-대현자와-엔트로퍼.md`](./world/09-대현자와-엔트로퍼.md)
 
 ---
 
@@ -373,7 +373,7 @@
 
 > **드래곤족 내부 분열**: 방관파 60% / 로드 추종파 30% / 인간 친화파 10% (행커만이 이 분파).
 
-심화: [`world/anti-sage-factions.md`](./world/anti-sage-factions.md) · [`world/dragons-and-reset.md`](./world/dragons-and-reset.md)
+심화: [`world/09-대현자와-엔트로퍼.md`](./world/09-대현자와-엔트로퍼.md) · [`world/11-드래곤-사회와-리셋.md`](./world/11-드래곤-사회와-리셋.md)
 
 ---
 
@@ -385,7 +385,7 @@
 
 써클 체계 (슐로브스 마레 정립): 1~9써클. *시니어 셉터* = 가장 작은 세프 감응 가능 단계.
 
-심화: [`systems/magic-system.md`](./systems/magic-system.md) · [`systems/magic-principles-history.md`](./systems/magic-principles-history.md)
+심화: [`systems/01-마법-시스템.md`](./systems/01-마법-시스템.md) · [`systems/01-마법-시스템.md`](./systems/01-마법-시스템.md)
 
 ### 검술 4정통
 
@@ -398,7 +398,7 @@
 
 상성: 강철 > 마검 > 신성 > 공허 > 강철 (느슨한 가위바위보)
 
-심화: [`systems/swordsmanship.md`](./systems/swordsmanship.md)
+심화: [`systems/02-검술-시스템.md`](./systems/02-검술-시스템.md)
 
 ### 신성마법
 - 5단계 신앙 등급 (1=평신도 ~ 5=신탁자/왕가 비전)
@@ -407,7 +407,7 @@
 - **균열의 빛**: 카르샤 왕가 7대 비전. 정상 3시간 영창. *즉발판 = 시전자 사망*
 - *손 모음 인사* = 신성마법 *귀의 단계* 자세의 민중화
 
-심화: [`systems/holy-magic.md`](./systems/holy-magic.md)
+심화: [`systems/04-신성-마법.md`](./systems/04-신성-마법.md)
 
 ### 종교 직분 5종 + 나라별 종파
 
@@ -416,12 +416,12 @@
 - **나라별 종파**: 헤븐즈=르세프 본원교 / 엘더스톰=아샤스+일레인 추모 / 강철제국=아샤스+레코르 (검의 두 얼굴) / 카르샤=루멘 통합 (이그너스+저그넛+로렌+잉그리드 4축) / 마녀령=학카르 본원+9혈별 보조신 / 데미안=살라멘티+노바+재믹 (무역 신앙) / 상아탑=무신론 / 칠흑숲=엘라+룔
 - **카르샤 손 모음 인사** = 루멘 4축 의례의 대중화
 
-심화: [`world/religious-orders.md`](./world/religious-orders.md) · [`world/pantheon.md`](./world/pantheon.md)
+심화: [`world/08-종교와-신앙.md`](./world/08-종교와-신앙.md) · [`world/08-종교와-신앙.md`](./world/08-종교와-신앙.md)
 
 ### 전투 체계
 마나 강화 5단계: 순환 → 응집 → 외피 → 관통 → 공명
 
-심화: [`systems/combat-system.md`](./systems/combat-system.md)
+심화: [`systems/07-전투-시스템.md`](./systems/07-전투-시스템.md)
 
 ---
 
@@ -429,16 +429,16 @@
 
 ### 프롤로그 — 옥좌의 피
 - 시점: CC 1000 봄, 카르샤 왕궁 옥좌의 방
-- 지명: 세이렌 ([`modern §4`](./world/eight-kingdoms-modern.md#4-카르샤-왕국--카르샤-왕가) · [`places §2`](./world/places-and-locations.md#2-8왕국-수도--핵심-도시))
+- 지명: 세이렌 ([`modern §4`](./world/05-팔왕국-고대와-현대.md#4-카르샤-왕국--카르샤-왕가) · [`places §2`](./world/03-지리와-장소.md#2-8왕국-수도--핵심-도시))
 - 인물: 카엘 (1인칭) vs 카르샤 알레이언 6세
 - 핵심: 호각의 5합 → 신성안으로 사슬 7마디 확인 → 알레이언이 검을 내려놓고 *균열의 빛 즉발판* 영창 → 균열 0.5초 자각 → 알레이언 사망
 - 단서: 호위 머리카락 목걸이, 회랑의 *도망치소서* 비명, 왕가 두 손 모음 문장, 평화 협정 양피지, 거울의 *옅어진 검은 일렁임*, *얇은 금속음*, 시야 가장자리 이중상, *7대를 기다린 자* 대사
 
 ### 1부 — 저주받은 아이 (1-1 ~ 1-5)
 - 시점: CC 980~996, 노이엔 변경 → 폐허 마탑
-- 지명: 노이엔 ([`places §3`](./world/places-and-locations.md#3-8왕국-내-부속-도시)) + 폐허 마탑 (사흘 거리)
+- 지명: 노이엔 ([`places §3`](./world/03-지리와-장소.md#3-8왕국-내-부속-도시)) + 폐허 마탑 (사흘 거리)
 - 인물: 카엘 (출생~16세), 부친 알린, 리엔(1-2), 단(1-3), 마을 최고령자
-- 풍습: 헤븐즈 *르세프 본원교* 평민 신앙 ([`culture §1`](./world/culture-and-customs.md#1-결혼-풍습) · [`religious-orders §3.1`](./world/religious-orders.md))
+- 풍습: 헤븐즈 *르세프 본원교* 평민 신앙 ([`culture §1`](./world/04-종족과-문화.md#1-결혼-풍습) · [`religious-orders §3.1`](./world/08-종교와-신앙.md))
 - 핵심: 인지 왜곡의 5가지 원형 노출, 1-3 첫 살상 사고, 1-4 추방 + 부친의 책, 1-5 폐허 마탑 첫 마나 점화
 
 ### 1.5부 — 떠돌이의 길 (1.5-1 ~ 1.5-4) — *신규*
@@ -451,7 +451,7 @@
 
 ### 2부 — 바이서스의 탑 (2-1 ~ 2-6)
 - 시점: CC 996~998
-- 지명: 셀라리아 — 외곽 연구소·왕립 연구원·왕궁 대전당 ([`modern §1`](./world/eight-kingdoms-modern.md#1-헤븐즈-킹덤--바이서스-왕가))
+- 지명: 셀라리아 — 외곽 연구소·왕립 연구원·왕궁 대전당 ([`modern §1`](./world/05-팔왕국-고대와-현대.md#1-헤븐즈-킹덤--바이서스-왕가))
 - 정치 배경: 바이서스 라카르 9세 + 라이세린 데오릭 공작 라인 + 카리엔 왕녀 견제
 - 인물: 카엘, 카르엔 사이엔(스승), 미라 베스턴, 라이세린 데오릭 공작
 - 핵심: 바이서스 진입, 카르엔 사사, 금지 분야 *엔트로피 역연산*, 왕립 연구원 진입, 미라 손목 골절, 왕실 마법 고문 임명, 카르엔 사망 + 경고 서한 소각
@@ -459,23 +459,23 @@
 ### 3부 — 정의의 가면 (3-1 ~ 3-6)
 - 시점: CC 998~999
 - 지명: 셀라리아 영빈관·외교실·대학 강당·왕좌의 방 + 세번 강 변경
-- 정치 배경: 라이세린-데미안 외척 밀약 ([`anti-sage-factions §9.2`](./world/anti-sage-factions.md))
+- 정치 배경: 라이세린-데미안 외척 밀약 ([`anti-sage-factions §9.2`](./world/09-대현자와-엔트로퍼.md))
 - 인물: 카엘, 라이세린, 카일렌 베르하르트 경(카르샤 사절단장), 에리언, 마하
 - 풍습: 카르샤 *손 모음 인사* 의 *루멘 통합 4축 의례* 출처
 - 핵심: 사절단 손 모음 인사 *조롱*으로 오인, 위조 첩보, 국경 사주 학살(에리언 사망), 카르샤 악마화 강연, 3-5 *마하 시점 교차*, 선전포고. **30% 분기점**
 
 ### 4부 — 왕을 죽인 날 (4-1 ~ 4-5) — 프롤로그 합류
 - 시점: CC 999 가을 ~ CC 1000 봄
-- 지명: 세번 강 → 세이렌 외성벽 → 백색 회랑 → 옥좌의 방 ([`modern §4`](./world/eight-kingdoms-modern.md#4-카르샤-왕국--카르샤-왕가))
-- 군사: 카엘 단신 광역 마법 vs 카르샤 신성 결계 7중 + 신성검단 ([`military-doctrine §2.4`](./systems/military-doctrine.md))
+- 지명: 세번 강 → 세이렌 외성벽 → 백색 회랑 → 옥좌의 방 ([`modern §4`](./world/05-팔왕국-고대와-현대.md#4-카르샤-왕국--카르샤-왕가))
+- 군사: 카엘 단신 광역 마법 vs 카르샤 신성 결계 7중 + 신성검단 ([`military-doctrine §2.4`](./systems/06-군사-등급과-교리.md))
 - 인물: 카엘 (1인칭), 알레이언 6세, 카일렌 경, 키얀 왕자, 카르샤 도르난 단장 (4-2 전사)
 - 풍습: 카르샤 *측실 없음 전통* → 알레이언 사후 키얀이 *유일 직계* (왕가 멸문 직전)
 - 핵심: 4-1 첫 회전(1400명 광역 살상), 4-2 세이렌 함락 + 머리카락 단서 회수, 4-3 회랑 진입 + 카일렌 사망, **4-4 프롤로그 완전판 + 키얀 왕자 도주**, 4-5 평화 협정 발견 + *앤트로퍼* 단어 첫 등장 + 손 떨림 신체화
 
 ### 5부 — 드래곤의 분노 (5-1 ~ 5-6)
 - 시점: CC 1000 봄~여름
-- 지명: 점령된 세이렌 도서관 → 카르엔 외곽 연구소 → 칠흑숲 → 변경 엘프 마을 → 잉그리드 사원 → **빙벽 협곡** → 오릴 마을 ([`places §5·7`](./world/places-and-locations.md))
-- 드래곤족 맥락: 이실 = 청룡, 드래곤 로드 추종파 폴리모프 자객 ([`dragon-society §3·5`](./world/dragon-society.md))
+- 지명: 점령된 세이렌 도서관 → 카르엔 외곽 연구소 → 칠흑숲 → 변경 엘프 마을 → 잉그리드 사원 → **빙벽 협곡** → 오릴 마을 ([`places §5·7`](./world/03-지리와-장소.md))
+- 드래곤족 맥락: 이실 = 청룡, 드래곤 로드 추종파 폴리모프 자객 ([`dragon-society §3·5`](./world/11-드래곤-사회와-리셋.md))
 - 인물: 카엘, 세파 류르, 약초꾼 오릴, 이실(드래곤 본태)
 - 핵심: 5-1 라이세린 잠적, 5-2 카르엔 봉인 문서 → 사프란·붉은 사슬·이득·충동 명명, 5-3 빙벽 협곡 여정, 5-4 의식 영창 비틀림 → 이실 분노, 5-5 양팔 상실 + 마나 회로 5/7 단절, 5-6 오릴 마을 회복 + *손 모음을 처음으로 위협으로 보지 않음*
 
@@ -483,9 +483,9 @@
 - 시점: CC 1000 여름~겨울
 - 지명: **바엘** (마녀령 변경) → **그라스** (데미안 마법 장인) → **오르하임** (마녀령 9섬 수도) → 세이른의 산속 도장 (강철제국 변경) → 그라스 시장 → **폐허 마탑** (1-5와 동일)
 - 정치 배경:
-  - 마녀령 9혈 원탁회의 + 흑혈 종주 모르간 솔테 + 차기 종주 모르간 린이엔 ([`witch §3·6`](./world/witch-eastern-council.md))
-  - 그라스 = 타르모리스 후예 + 카르엔 학파 잠적 분파 ([`modern §6`](./world/eight-kingdoms-modern.md#6-제국-데미안--데미안-황가-대대적-고도화))
-  - 세이른 = 강철제국 스틸만 방계 추방 ([`modern §3`](./world/eight-kingdoms-modern.md#3-강철제국--스틸만-황가))
+  - 마녀령 9혈 원탁회의 + 흑혈 종주 모르간 솔테 + 차기 종주 모르간 린이엔 ([`witch §3·6`](./world/12-마녀령-동부.md))
+  - 그라스 = 타르모리스 후예 + 카르엔 학파 잠적 분파 ([`modern §6`](./world/05-팔왕국-고대와-현대.md#6-제국-데미안--데미안-황가-대대적-고도화))
+  - 세이른 = 강철제국 스틸만 방계 추방 ([`modern §3`](./world/05-팔왕국-고대와-현대.md#3-강철제국--스틸만-황가))
 - 인물: 카엘, 세파, 카이엔 오르하임(이실), 모르간 린이엔 황녀, 세이른 스틸만
 - 핵심: 6-1 카이엔의 인간 감각 매혹, 6-2 의수 + *부친 책 출처 회수 (친조부 = 카르엔 학파 그라스 잔존자)*, 6-3 카이엔 동부국 황실 진입, 6-4 세이른 도장 입문(공허검), 6-5 카이엔 정보망 카엘 추적 도달, 6-6 그라스 시장 *5초 어긋남*, 6-7 결전지 = 1-5 폐허 마탑. 카이엔에게 공개 편지: *"나는 여기에 있다."*
 
@@ -609,32 +609,32 @@
 
 | 국가/세력 | 수도 | 정치 | 종교 | 군사 | 상세 |
 |----------|------|------|------|------|------|
-| **헤븐즈 킹덤** (바이서스) | 셀라리아 | 입헌 군주+마법원 | 르세프 본원교 | 마법 군단 | [모던](./world/eight-kingdoms-modern.md#1-헤븐즈-킹덤--바이서스-왕가) · [고대](./world/eight-kingdoms-ancient.md#1-알마리스-마법왕국-almaris--생존) |
-| **엘더스톰** (엘드라이트) | 그라니움 | 군주+군국 | 아샤스+일레인 추모 | 마법 군국 | [모던](./world/eight-kingdoms-modern.md#2-엘더스톰--엘드라이트-왕가) · [고대](./world/eight-kingdoms-ancient.md#2-벨라리온-마법왕국-belarion--사망) |
-| **강철제국** (스틸만) | 카르나 | 군국 황제정 | 아샤스+레코르 (검의 두 얼굴) | 중기병+검 일점 돌파 | [모던](./world/eight-kingdoms-modern.md#3-강철제국--스틸만-황가) · [고대](./world/eight-kingdoms-ancient.md#3-카랑크-기사왕국-karangk--생존) |
-| **카르샤** (카르샤 왕가) | 세이렌 | 신정 군주 | 루멘 통합 4축 | 신성검+결계 농성 | [모던](./world/eight-kingdoms-modern.md#4-카르샤-왕국--카르샤-왕가) · [고대](./world/eight-kingdoms-ancient.md#4-루멘-신성제국-lumen--사망) |
-| **마녀령 동부국** | 오르하임 (9섬) | **왕 없음** — 9혈 원탁 16인 | 학카르+9혈 보조신 | 9혈 분산 게릴라 | [모던](./world/eight-kingdoms-modern.md#5-마녀령-동부국--왕-없음--9혈-원탁회의) · [원탁 상세](./world/witch-eastern-council.md) · [고대](./world/eight-kingdoms-ancient.md) |
-| **제국 데미안** (데미안) | **미라돈** (해안·대륙 1위) | 황제정+상인 길드 연합 | 살라멘티+노바+재믹 | 마도공학 화기+용병 | [모던](./world/eight-kingdoms-modern.md#6-제국-데미안--데미안-황가-대대적-고도화) · [고대](./world/eight-kingdoms-ancient.md#6-타르모리스-마법공학-왕국-tarmoris--사망) |
-| **국립상아탑** | 셀라리아 호수 섬 | 학장 단독제 | 무신론 | 비무장 | [모던](./world/eight-kingdoms-modern.md#7-국립상아탑-헤븐즈-킹덤-내) |
-| **칠흑숲 변경 엘프** | (정치체 없음) | 부족 산재 | 엘라+룔 | 부족 산발 게릴라 | [모던](./world/eight-kingdoms-modern.md#8-칠흑숲-변경-엘프--정치체-없음) · [드래곤족](./world/dragon-society.md) |
+| **헤븐즈 킹덤** (바이서스) | 셀라리아 | 입헌 군주+마법원 | 르세프 본원교 | 마법 군단 | [모던](./world/05-팔왕국-고대와-현대.md#1-헤븐즈-킹덤--바이서스-왕가) · [고대](./world/05-팔왕국-고대와-현대.md#1-알마리스-마법왕국-almaris--생존) |
+| **엘더스톰** (엘드라이트) | 그라니움 | 군주+군국 | 아샤스+일레인 추모 | 마법 군국 | [모던](./world/05-팔왕국-고대와-현대.md#2-엘더스톰--엘드라이트-왕가) · [고대](./world/05-팔왕국-고대와-현대.md#2-벨라리온-마법왕국-belarion--사망) |
+| **강철제국** (스틸만) | 카르나 | 군국 황제정 | 아샤스+레코르 (검의 두 얼굴) | 중기병+검 일점 돌파 | [모던](./world/05-팔왕국-고대와-현대.md#3-강철제국--스틸만-황가) · [고대](./world/05-팔왕국-고대와-현대.md#3-카랑크-기사왕국-karangk--생존) |
+| **카르샤** (카르샤 왕가) | 세이렌 | 신정 군주 | 루멘 통합 4축 | 신성검+결계 농성 | [모던](./world/05-팔왕국-고대와-현대.md#4-카르샤-왕국--카르샤-왕가) · [고대](./world/05-팔왕국-고대와-현대.md#4-루멘-신성제국-lumen--사망) |
+| **마녀령 동부국** | 오르하임 (9섬) | **왕 없음** — 9혈 원탁 16인 | 학카르+9혈 보조신 | 9혈 분산 게릴라 | [모던](./world/05-팔왕국-고대와-현대.md#5-마녀령-동부국--왕-없음--9혈-원탁회의) · [원탁 상세](./world/12-마녀령-동부.md) · [고대](./world/05-팔왕국-고대와-현대.md) |
+| **제국 데미안** (데미안) | **미라돈** (해안·대륙 1위) | 황제정+상인 길드 연합 | 살라멘티+노바+재믹 | 마도공학 화기+용병 | [모던](./world/05-팔왕국-고대와-현대.md#6-제국-데미안--데미안-황가-대대적-고도화) · [고대](./world/05-팔왕국-고대와-현대.md#6-타르모리스-마법공학-왕국-tarmoris--사망) |
+| **국립상아탑** | 셀라리아 호수 섬 | 학장 단독제 | 무신론 | 비무장 | [모던](./world/05-팔왕국-고대와-현대.md#7-국립상아탑-헤븐즈-킹덤-내) |
+| **칠흑숲 변경 엘프** | (정치체 없음) | 부족 산재 | 엘라+룔 | 부족 산발 게릴라 | [모던](./world/05-팔왕국-고대와-현대.md#8-칠흑숲-변경-엘프--정치체-없음) · [드래곤족](./world/11-드래곤-사회와-리셋.md) |
 
 ### 지형 카테고리별 빠른 점프
 
 | 카테고리 | 파일 |
 |---------|------|
-| **모든 지명 통합 색인** (도시·자연·신전 + 카엘 여정 지도) | [`places-and-locations.md`](./world/places-and-locations.md) |
-| **대륙 기본 지리** (canon 원본) | [`geography.md`](./world/geography.md) |
-| **8왕국 신좌침묵 원형** | [`eight-kingdoms-ancient.md`](./world/eight-kingdoms-ancient.md) |
-| **8왕국 현 후신 상세** (수도·왕가·서자·참모) | [`eight-kingdoms-modern.md`](./world/eight-kingdoms-modern.md) |
-| **마녀령 9혈 원탁 상세** (오르하임 9섬) | [`witch-eastern-council.md`](./world/witch-eastern-council.md) |
-| **국가별 문화·풍습** (결혼·장례·축제·식·의복) | [`culture-and-customs.md`](./world/culture-and-customs.md) |
-| **종교 직분 + 나라별 종파** | [`religious-orders.md`](./world/religious-orders.md) |
-| **국가별 병법** (전쟁 교리) | [`../systems/military-doctrine.md`](./systems/military-doctrine.md) |
-| **마계 창조물 카탈로그** (균열·마왕·진주) | [`demon-creatures.md`](./world/demon-creatures.md) |
-| **드래곤 사회·영지** (9색·분파·폴리모프) | [`dragon-society.md`](./world/dragon-society.md) |
-| **이전 8왕국 멸망사** | [`lithunia-history.md`](./world/lithunia-history.md) |
-| **연표·달력** | [`timeline.md`](./world/timeline.md) · [`calendar-and-time.md`](./world/calendar-and-time.md) |
-| **주요 아티팩트·아이템 카탈로그** | [`artifacts.md`](./world/artifacts.md) |
+| **모든 지명 통합 색인** (도시·자연·신전 + 카엘 여정 지도) | [`places-and-locations.md`](./world/03-지리와-장소.md) |
+| **대륙 기본 지리** (canon 원본) | [`geography.md`](./world/03-지리와-장소.md) |
+| **8왕국 신좌침묵 원형** | [`eight-kingdoms-ancient.md`](./world/05-팔왕국-고대와-현대.md) |
+| **8왕국 현 후신 상세** (수도·왕가·서자·참모) | [`eight-kingdoms-modern.md`](./world/05-팔왕국-고대와-현대.md) |
+| **마녀령 9혈 원탁 상세** (오르하임 9섬) | [`witch-eastern-council.md`](./world/12-마녀령-동부.md) |
+| **국가별 문화·풍습** (결혼·장례·축제·식·의복) | [`culture-and-customs.md`](./world/04-종족과-문화.md) |
+| **종교 직분 + 나라별 종파** | [`religious-orders.md`](./world/08-종교와-신앙.md) |
+| **국가별 병법** (전쟁 교리) | [`../systems/06-군사-등급과-교리.md`](./systems/06-군사-등급과-교리.md) |
+| **마계 창조물 카탈로그** (균열·마왕·진주) | [`demon-creatures.md`](./world/10-마계와-리셋.md) |
+| **드래곤 사회·영지** (9색·분파·폴리모프) | [`dragon-society.md`](./world/11-드래곤-사회와-리셋.md) |
+| **이전 8왕국 멸망사** | [`lithunia-history.md`](./world/02-역사와-연표.md) |
+| **연표·달력** | [`timeline.md`](./world/02-역사와-연표.md) · [`calendar-and-time.md`](./world/02-역사와-연표.md) |
+| **주요 아티팩트·아이템 카탈로그** | [`artifacts.md`](./world/13-아티팩트와-의수.md) |
 | **4부 매크로 시놉시스 (v2)** | [`../novel/synopsis.md`](./novel/synopsis.md) |
 | **Chapter 1 굵은 spec — 어둠~결전 편지** | [`../novel/specs/spec-chapter-1.md`](./novel/specs/spec-chapter-1.md) |
 | **Chapter 2 굵은 spec — 결전·동맹·첫 표적** | [`../novel/specs/spec-chapter-2.md`](./novel/specs/spec-chapter-2.md) |
@@ -694,11 +694,11 @@
 | 문서 | 명명 적용 여부 |
 |------|--------------|
 | `MAP.md` (본 문서) | ✅ 모든 정식명 일관 적용 |
-| `world/eight-kingdoms-ancient.md` | 🔄 정식 surname 적용 필요 |
-| `world/antroper-lineage.md` | ✅ canon 명 유지 |
-| `world/great-sages-lineage.md` | ✅ canon 명 유지 + 7제자 surname 옵션 |
-| `world/great-sage-and-entroper.md` | ✅ canon 유지 |
-| `world/anti-sage-factions.md` | 🔄 라이세린 데오릭 등 정식명 반영 필요 |
+| `world/05-팔왕국-고대와-현대.md` | 🔄 정식 surname 적용 필요 |
+| `world/09-대현자와-엔트로퍼.md` | ✅ canon 명 유지 |
+| `world/09-대현자와-엔트로퍼.md` | ✅ canon 명 유지 + 7제자 surname 옵션 |
+| `world/09-대현자와-엔트로퍼.md` | ✅ canon 유지 |
+| `world/09-대현자와-엔트로퍼.md` | 🔄 라이세린 데오릭 등 정식명 반영 필요 |
 | `novel/characters.md` | 🔄 신규 명단 반영 필요 |
 | `novel/chapters/00-prologue.md` | 🔄 알레이언 6세 정식명 1회 노출 추가 |
 | `novel/chapters/part-1~6.md` | 🔄 평민 이름 (알린·리엔·단·미라·세파·세이른) 통일 |
@@ -750,7 +750,7 @@
 - [ ] 호칭 사용 우선순위 (§15)를 지켰는가?
 - [ ] [`novel/style-guide.md §9`](./novel/style-guide.md#9-작가-체크리스트-회차-집필-후) **11개 항목** 모두 통과 (페이싱·유머·극적·시점·대사 톤)?
 - [ ] [`novel/characters-psychology.md §13`](./novel/characters-psychology.md#13-대사-일관성-체크리스트) **8개 항목** (인물별 대사 톤 일관성) 통과?
-- [ ] 등장 아티팩트 묘사가 [`world/artifacts.md`](./world/artifacts.md) 사양과 일치?
+- [ ] 등장 아티팩트 묘사가 [`world/13-아티팩트와-의수.md`](./world/13-아티팩트와-의수.md) 사양과 일치?
 
 ---
 

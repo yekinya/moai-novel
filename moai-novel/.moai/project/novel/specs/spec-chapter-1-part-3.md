@@ -257,17 +257,17 @@
 ## 레퍼런스
 
 ### 세계관·도메인
-- [`../../world/geography.md`](../../world/geography.md) — 셀라리아 (헤븐즈 킹덤 수도·호수 섬 마법 학원도시)
-- [`../../world/lithunia-history.md`](../../world/lithunia-history.md) — 바이서스 라카르 9세 왕가·헤븐즈 입헌 군주 + 마법원 구조
-- [`../../world/anti-sage-factions.md`](../../world/anti-sage-factions.md) — 카르엔 학파 야망·정치색 + 카르엔 사이엔 위치 (잠적 분파 8대 계승자)
-- [`../../world/great-sage-and-entroper.md`](../../world/great-sage-and-entroper.md) — 카엘 5써클 도달 + 앤트로퍼 이득 (잔향 비뚤린 시야)
-- [`../../world/legendary-figures.md`](../../world/legendary-figures.md) — 카르엔 사이엔 (옛 7써클, 야망)
+- [`../../world/03-지리와-장소.md`](../../world/03-지리와-장소.md) — 셀라리아 (헤븐즈 킹덤 수도·호수 섬 마법 학원도시)
+- [`../../world/02-역사와-연표.md`](../../world/02-역사와-연표.md) — 바이서스 라카르 9세 왕가·헤븐즈 입헌 군주 + 마법원 구조
+- [`../../world/09-대현자와-엔트로퍼.md`](../../world/09-대현자와-엔트로퍼.md) — 카르엔 학파 야망·정치색 + 카르엔 사이엔 위치 (잠적 분파 8대 계승자)
+- [`../../world/09-대현자와-엔트로퍼.md`](../../world/09-대현자와-엔트로퍼.md) — 카엘 5써클 도달 + 앤트로퍼 이득 (잔향 비뚤린 시야)
+- [`../../world/14-전설-인물.md`](../../world/14-전설-인물.md) — 카르엔 사이엔 (옛 7써클, 야망)
 - [`../../world/lithunia-world-overview.md`](../../world/lithunia-world-overview.md) — 헤븐즈 8왕국 + 국립상아탑 위계
 
 ### 마법·전투 시스템
-- [`../../systems/magic-system.md`](../../systems/magic-system.md) — 5써클 마법 + 4중 효율 + *9-A 매개체 가설* + *9-B 쿼크 단위 변환 한계*
-- [`../../systems/magic-principles-history.md`](../../systems/magic-principles-history.md) — 카엘의 *외곽 연구소 5년 도서관 정독* (Part 6 드래곤 영역 정보·Part 5 즉발판 출처)
-- [`../../systems/combat-system.md`](../../systems/combat-system.md) — 외곽 연구소 *2대 연구 과제* (신체 마나 응축 매개체 + 드래곤 용언마법)
+- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — 5써클 마법 + 4중 효율 + *9-A 매개체 가설* + *9-B 쿼크 단위 변환 한계*
+- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — 카엘의 *외곽 연구소 5년 도서관 정독* (Part 6 드래곤 영역 정보·Part 5 즉발판 출처)
+- [`../../systems/07-전투-시스템.md`](../../systems/07-전투-시스템.md) — 외곽 연구소 *2대 연구 과제* (신체 마나 응축 매개체 + 드래곤 용언마법)
 
 ### 인물
 - [`../characters.md`](../characters.md) — 카엘 / 카르엔 사이엔 / 라이세린 / 미라 베스턴 / 외곽 연구소 단편 인물

@@ -4,9 +4,9 @@
 >
 > 인물 심리: [`characters-psychology.md`](./characters-psychology.md)
 > 플롯: [`plot.md`](./plot.md)
-> 아이템: [`../world/artifacts.md`](../world/artifacts.md)
-> 마나/엔트로픽: [`../world/mana-and-entropic-density.md`](../world/mana-and-entropic-density.md)
-> 마법 원리: [`../systems/magic-system.md`](../systems/magic-system.md)
+> 아이템: [`../world/13-아티팩트와-의수.md`](../world/13-아티팩트와-의수.md)
+> 마나/엔트로픽: [`../world/10-마계와-리셋.md`](../world/10-마계와-리셋.md)
+> 마법 원리: [`../systems/01-마법-시스템.md`](../systems/01-마법-시스템.md)
 
 ---
 
@@ -158,7 +158,7 @@
 - **결정적 사용**: 위기에서 *조합 시너지* 로 활약 — 단독 사용이 아닌 *2~3개 동시 운용*
 - **변형/소실**: 결말부 다수가 *마지막 사용 후 소진* (성큼걸이 2회 / 키메라 정수 1회 / 루멘브링거 결박 1회와 동일 구조)
 
-상세 카탈로그: [`../world/artifacts.md §11~13`](../world/artifacts.md)
+상세 카탈로그: [`../world/13-아티팩트와-의수.md §11~13`](../world/13-아티팩트와-의수.md)
 
 ### 2.4 인물 관계 *상징물*
 
@@ -195,7 +195,7 @@
 
 ## 3. 아이템 진화 — 카엘의 *6종 세트*
 
-본작 카엘이 *수집·진화시키는* 핵심 6아이템. 상세 사양은 [`../world/artifacts.md §11~13`](../world/artifacts.md) 참조.
+본작 카엘이 *수집·진화시키는* 핵심 6아이템. 상세 사양은 [`../world/13-아티팩트와-의수.md §11~13`](../world/13-아티팩트와-의수.md) 참조.
 
 | # | 아이템 | 입수 시점 | 1회 사용 | 결정적 사용 |
 |---|--------|----------|---------|------------|
@@ -238,7 +238,7 @@
 
 ## 5. 마나 리셋 메커니즘 보강 — *다차원 평형 회귀*
 
-기존 [`../world/mana-and-entropic-density.md`](../world/mana-and-entropic-density.md) 의 *엔트로픽 농도* 를 *다차원 평형* 모델로 보강.
+기존 [`../world/10-마계와-리셋.md`](../world/10-마계와-리셋.md) 의 *엔트로픽 농도* 를 *다차원 평형* 모델로 보강.
 
 ### 5.1 엔트로픽 농축의 4대 경로
 
@@ -293,7 +293,7 @@
 
 ### 6.2 변환계의 *진짜 정수*
 
-기존 [`../systems/magic-system.md`](../systems/magic-system.md) 의 *변환계* 는 *원자 단위 재구성* 으로 기술됨. 그 *내부 원리* 가 곧 *파동* 이다:
+기존 [`../systems/01-마법-시스템.md`](../systems/01-마법-시스템.md) 의 *변환계* 는 *원자 단위 재구성* 으로 기술됨. 그 *내부 원리* 가 곧 *파동* 이다:
 
 - *물질의 형태* 는 *그 물질을 구성하는 마나의 *파동 패턴**
 - *파동 패턴* 을 변경하면 *물질 자체가 변환됨* — 분자식·원자수가 아닌 *파동 동조성* 만 일치하면 변환 가능
@@ -480,7 +480,7 @@
 
 - 인물 심리: [`characters-psychology.md §1`](./characters-psychology.md) — 카엘 심리 5축
 - 플롯: [`plot.md`](./plot.md)
-- 아이템: [`../world/artifacts.md`](../world/artifacts.md)
-- 마나/리셋: [`../world/mana-and-entropic-density.md`](../world/mana-and-entropic-density.md)
-- 마법 원리: [`../systems/magic-system.md`](../systems/magic-system.md)
-- 응용 마법: [`../systems/applied-magic.md`](../systems/applied-magic.md)
+- 아이템: [`../world/13-아티팩트와-의수.md`](../world/13-아티팩트와-의수.md)
+- 마나/리셋: [`../world/10-마계와-리셋.md`](../world/10-마계와-리셋.md)
+- 마법 원리: [`../systems/01-마법-시스템.md`](../systems/01-마법-시스템.md)
+- 응용 마법: [`../systems/01-마법-시스템.md`](../systems/01-마법-시스템.md)

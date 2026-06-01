@@ -167,15 +167,15 @@
 
 ### 세계관·도메인
 - [`../../world/lithunia-world-overview.md`](../../world/lithunia-world-overview.md) — 리투니아 대륙 + 헤븐즈 킹덤 외곽
-- [`../../world/geography.md`](../../world/geography.md) — 노이엔 변경 위치·헤븐즈 행정 구조
-- [`../../world/mana-and-entropic-density.md`](../../world/mana-and-entropic-density.md) — 엔트로픽 농도 + *검은씨* 마을 옛 이름
-- [`../../world/great-sage-and-entroper.md`](../../world/great-sage-and-entroper.md) — 앤트로퍼·잔향·약 발현 캐리어 정통 (알린)
-- [`../../world/legendary-figures.md`](../../world/legendary-figures.md) — 친조부 알리스 + 친조모 이렐라 (카르엔 학파 잠적 분파)
+- [`../../world/03-지리와-장소.md`](../../world/03-지리와-장소.md) — 노이엔 변경 위치·헤븐즈 행정 구조
+- [`../../world/10-마계와-리셋.md`](../../world/10-마계와-리셋.md) — 엔트로픽 농도 + *검은씨* 마을 옛 이름
+- [`../../world/09-대현자와-엔트로퍼.md`](../../world/09-대현자와-엔트로퍼.md) — 앤트로퍼·잔향·약 발현 캐리어 정통 (알린)
+- [`../../world/14-전설-인물.md`](../../world/14-전설-인물.md) — 친조부 알리스 + 친조모 이렐라 (카르엔 학파 잠적 분파)
 - [`../../world/literature/fragments.md`](../../world/literature/fragments.md) — *검은씨* 전승 단편
 
 ### 마법·시스템
-- [`../../systems/magic-system.md`](../../systems/magic-system.md) — 마나 점화 (폐허 마탑 첫 점화)
-- [`../../systems/magic-principles-history.md`](../../systems/magic-principles-history.md) — *세상을 미워하는 자는 마나를 다루지 마라* 문장의 원 출처
+- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — 마나 점화 (폐허 마탑 첫 점화)
+- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — *세상을 미워하는 자는 마나를 다루지 마라* 문장의 원 출처
 
 ### 인물·서사
 - [`../characters.md`](../characters.md) — 카엘 / 알린 (부친) / 단 / 단의 모친 / 마을 최고령자

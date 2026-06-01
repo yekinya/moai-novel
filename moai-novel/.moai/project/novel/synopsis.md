@@ -428,7 +428,7 @@
 
 ## 마법 시전 원리 — 본작 핵심 메커니즘 (자세한 화염구 예시)
 
-> 화염구 예시. 본 시놉시스에 포함하여 *작품 *마법 묘사의 정통성* 의 출처* 명시. 시스템 상세는 [`../systems/magic-system.md §3`](../systems/magic-system.md) 참조.
+> 화염구 예시. 본 시놉시스에 포함하여 *작품 *마법 묘사의 정통성* 의 출처* 명시. 시스템 상세는 [`../systems/01-마법-시스템.md §3`](../systems/01-마법-시스템.md) 참조.
 
 ### 화염구 구현의 5단계
 
@@ -461,7 +461,7 @@
 
 ## 앤트로퍼 DNA 캐리어 모델 — 본작 캐논 재정의
 
-> *기존 16대 순차 모델이 *주요 강한 발현 16명* 으로 재정의됨*. 자세한 사양은 [`../world/great-sage-and-entroper.md`](../world/great-sage-and-entroper.md) 참조.
+> *기존 16대 순차 모델이 *주요 강한 발현 16명* 으로 재정의됨*. 자세한 사양은 [`../world/09-대현자와-엔트로퍼.md`](../world/09-대현자와-엔트로퍼.md) 참조.
 
 ### 핵심 변경
 
@@ -506,8 +506,8 @@
 - *chapters/ 디렉터리 폐기 (2026-05-30) — spec-chapter-{x}-part-{y}.md 가 회차 비트·서사 장치·어휘 가이드 모두 self-contained 보유*
 - [`characters-psychology.md`](./characters-psychology.md) — 인물 심리·동기
 - [`style-guide.md`](./style-guide.md) — 문체·서사 가이드
-- [`../world/great-sage-and-entroper.md`](../world/great-sage-and-entroper.md) — 앤트로퍼 DNA 캐리어 모델 (재정의)
-- [`../world/antroper-lineage.md`](../world/antroper-lineage.md) — 역대 강한 발현 16명
-- [`../systems/magic-system.md`](../systems/magic-system.md) — 마법 시전 메커니즘
-- [`../world/high-density-targets.md`](../world/high-density-targets.md) — 표적 우선순위
-- [`../world/eight-kingdoms-modern.md`](../world/eight-kingdoms-modern.md) — 왕국 역학
+- [`../world/09-대현자와-엔트로퍼.md`](../world/09-대현자와-엔트로퍼.md) — 앤트로퍼 DNA 캐리어 모델 (재정의)
+- [`../world/09-대현자와-엔트로퍼.md`](../world/09-대현자와-엔트로퍼.md) — 역대 강한 발현 16명
+- [`../systems/01-마법-시스템.md`](../systems/01-마법-시스템.md) — 마법 시전 메커니즘
+- [`../world/10-마계와-리셋.md`](../world/10-마계와-리셋.md) — 표적 우선순위
+- [`../world/05-팔왕국-고대와-현대.md`](../world/05-팔왕국-고대와-현대.md) — 왕국 역학
