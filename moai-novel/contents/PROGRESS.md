@@ -20,7 +20,7 @@
 |------|------|------|------|
 | `chapter1/00-prologue.md` | 🔒 **LOCKED** | 6,122자 | *옥좌의 피·5합 결투·결착*. 사용자 직접 재작성 완료 (2026-06-01) |
 | `chapter1/01-part-1.md` | ✍️ DRAFT | 8,643자 | 1-1~1-5 통합 — *(고 카엘은 믿었다) 표현 제거 + 대사·상황 극적 보강 (2026-06-01)* |
-| `chapter1/02-part-2.md` | 📝 PLANNED | — | 떠돌이의 길 (Ch1 P2) |
+| `chapter1/02-part-2.md` | ✍️ DRAFT | 7,852자 | 떠돌이의 길 (Ch1 P2) — 7회차 1.5-1~1.5-7 통합 |
 | `chapter1/03-part-3.md` | 📝 PLANNED | — | 셀라리아 5년 (Ch1 P3) |
 | `chapter1/04-part-4.md` | 📝 PLANNED | — | 외교실 + 위조 첩보 (Ch1 P4) |
 | `chapter1/05-part-5.md` | 📝 PLANNED | — | 학살자 + 옥좌의 방 (Ch1 P5) |
@@ -53,6 +53,7 @@
 | 2026-06-01 | `chapter1/00-prologue.md` | DRAFT → 🔒 **LOCKED** | 사용자 선언 |
 | 2026-06-01 | `chapter1/01-part-1.md` | 신규 작성 (DRAFT) | MoAI |
 | 2026-06-01 | `chapter1/01-part-1.md` | *(고 ... 믿었다)* 표현 제거 + 산파/우물가/성년식/회의소/마탑 대사·상황 극적 보강 | MoAI |
+| 2026-06-01 | `chapter1/02-part-2.md` | 신규 작성 (DRAFT·7,852자·spec 정합) | MoAI |
 
 ---
 
