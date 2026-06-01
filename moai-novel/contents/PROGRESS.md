@@ -54,6 +54,7 @@
 | 2026-06-01 | `chapter1/01-part-1.md` | 신규 작성 (DRAFT) | MoAI |
 | 2026-06-01 | `chapter1/01-part-1.md` | *(고 ... 믿었다)* 표현 제거 + 산파/우물가/성년식/회의소/마탑 대사·상황 극적 보강 | MoAI |
 | 2026-06-01 | `chapter1/02-part-2.md` | 신규 작성 (DRAFT·7,852자·spec 정합) | MoAI |
+| 2026-06-02 | `chapter1/*.md` 전체 | 기울임 강조 `*...*` 표현 모두 제거 (HARD 사용자 정의) | MoAI |
 | 2026-06-01 | `chapter1/03-part-3.md` | 신규 작성 (DRAFT·6,408자·spec 정합) | MoAI |
 | 2026-06-01 | `chapter1/04-part-4.md` | 신규 작성 (DRAFT·7,605자·spec 정합) | MoAI |
 | 2026-06-02 | `chapter1/01-part-1.md` | 오타·맞춤법·HARD룰 위반 일괄 검수 (혼절·맴돌았다·동갑내기·힐끗·쫓겨났다 등 28건 + 이탤릭 17건 strip + 인칭대명사 호명 변경) → DRAFT → 🔒 **LOCKED** | 사용자 선언 |
