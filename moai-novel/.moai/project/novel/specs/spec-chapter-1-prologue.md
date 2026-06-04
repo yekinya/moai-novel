@@ -206,4 +206,4 @@
 
 ### 본 Chapter 1 다른 spec
 - [`./spec-chapter-1.md`](./spec-chapter-1.md) — Ch1 마스터
-- [`./spec-chapter-1-part-5.md`](./spec-chapter-1-part-5.md) — 4-4 옥좌의 방 5합 결투 본편 (*in medias res* 본격 회수)
+- [`./spec-chapter-1-part-6.md`](./spec-chapter-1-part-6.md) — 4-4 옥좌의 방 5합 결투 본편 (*in medias res* 본격 회수)

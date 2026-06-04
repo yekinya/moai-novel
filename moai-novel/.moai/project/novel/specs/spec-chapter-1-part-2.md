@@ -1,5 +1,12 @@
 # Chapter 1 Part 2 Spec: 떠돌이의 길
 
+> **[분할 안내 — 2026-06-04 사용자 정합]** 본 spec은 *떠돌이의 길* 전체 7회차 (1.5-1 ~ 1.5-7)를 기술하지만, 본문은 분량 초과(구 21,324자 → 8000자 정도로 끊기)로 두 회차 파일로 분할 운용:
+> - **`chapter-1-part-2.md`** = **1.5-1 ~ 1.5-5** (엘 떠남까지·8779자) — 본 spec의 §회차 비트 1.5-1, 1.5-2, 1.5-3, 1.5-5, 1.5-6 (~엘 떠남)에 해당
+> - **`chapter-1-part-3.md`** = **1.5-6 ~ 1.5-7** (홀로 일 년 + 두 번째 여행자·7949자) — [`./spec-chapter-1-part-3.md`](./spec-chapter-1-part-3.md) 신규 분할 spec
+> 
+> *spec 내 비트 번호 (1.5-x)는 그대로 유지하나, 본문 파일 회차 번호 (Part 2 / Part 3)는 분할 후 재정렬 적용*
+
+
 > Chapter 1 overview: [`./spec-chapter-1.md`](./spec-chapter-1.md)
 
 ## 이동동선·지리
@@ -339,4 +346,4 @@
 ### 본 Chapter 1 다른 spec
 - [`./spec-chapter-1.md`](./spec-chapter-1.md) — Ch1 마스터
 - [`./spec-chapter-1-part-1.md`](./spec-chapter-1-part-1.md) — 폐허 마탑 첫 마나 점화 직후
-- [`./spec-chapter-1-part-3.md`](./spec-chapter-1-part-3.md) — 셀라리아 진입 직후 후속
+- [`./spec-chapter-1-part-4.md`](./spec-chapter-1-part-4.md) — 셀라리아 진입 직후 후속

@@ -20,11 +20,12 @@
 |------|------|------|------|
 | `chapter-1/chapter-1-prologue.md` | 🔒 **LOCKED** | 6,122자 | *옥좌의 피·5합 결투·결착*. 사용자 직접 재작성 완료 (2026-06-01) |
 | `chapter-1/chapter-1-part-1.md` | 🔒 **LOCKED** | 8,959자 | 1-1~1-5 통합 — 오타·맞춤법·HARD룰 위반(인칭대명사·이탤릭) 일괄 검수 후 작성 완료 (2026-06-02) |
-| `chapter-1/chapter-1-part-2.md` | ✍️ DRAFT (분할 보류) | 21,324자 | 떠돌이의 길 (Ch1 P2) — 7회차 1.5-1~1.5-7 정합 **v4-final** (1.5-7 마린·델란 통합·구 1.5-8 폐기·추천장 본문 명세화·봉랍 전 카엘 한 번 보임·짐 말 마린 소유·사흘 도보 동행). 분량 그대로 유지·향후 일괄 분할 |
-| `chapter-1/chapter-1-part-3.md` | ✍️ DRAFT | 6,408자 | 셀라리아 5년 (Ch1 P3) — 8회차 2-1~2-8 통합 (2026-06-01) |
-| `chapter-1/chapter-1-part-4.md` | ✍️ DRAFT | 7,605자 | 정의의 가면 (Ch1 P4) — 7회차 + 외전 (마하 시점 교차 포함) (2026-06-01) |
-| `chapter-1/chapter-1-part-5.md` | 📝 PLANNED | — | 학살자 + 옥좌의 방 (Ch1 P5) |
-| `chapter-1/chapter-1-part-6.md` | 📝 PLANNED | — | 둥지의 카자르드 (Ch1 P6) |
+| `chapter-1/chapter-1-part-2.md` | 🔒 **LOCKED** | 8,779자 (excl ws) | 떠돌이의 길 (전반·1.5-1~1.5-5·엘 떠남까지) — 분할 후 오타 90건 일괄 검수 후 작성 완료 (2026-06-04) |
+| `chapter-1/chapter-1-part-3.md` | ✍️ DRAFT | 7,949자 (excl ws) | 떠돌이의 길 (후반·1.5-6~1.5-7·홀로 일 년 + 두 번째 여행자) — Part 2 분할 후반부 신규 spec [`./spec-chapter-1-part-3.md`] 생성 (2026-06-04). 분석 결과 기반 업그레이드 검토 대상 |
+| `chapter-1/chapter-1-part-4.md` | ✍️ DRAFT | 6,408자 | 셀라리아 5년 (Ch1 P4·구 P3) — Part 2 분할로 한 칸 밀림 (2026-06-04). **분석 결과 업그레이드 대상** |
+| `chapter-1/chapter-1-part-5.md` | ✍️ DRAFT | 7,605자 | 정의의 가면 (Ch1 P5·구 P4) — Part 2 분할로 한 칸 밀림 (2026-06-04). **분석 결과 업그레이드 대상** |
+| `chapter-1/chapter-1-part-6.md` | 📝 PLANNED | — | 학살자 + 옥좌의 방 (Ch1 P6·구 P5) |
+| `chapter-1/chapter-1-part-7.md` | 📝 PLANNED | — | 둥지의 카자르드 (Ch1 P7·구 P6) |
 
 ## Chapter 2 — 재정체화·결전·종결
 
@@ -66,6 +67,10 @@
 | 2026-06-01 | `chapter-1/chapter-1-part-3.md` | 신규 작성 (DRAFT·6,408자·spec 정합) | MoAI |
 | 2026-06-01 | `chapter-1/chapter-1-part-4.md` | 신규 작성 (DRAFT·7,605자·spec 정합) | MoAI |
 | 2026-06-02 | `chapter-1/chapter-1-part-1.md` | 오타·맞춤법·HARD룰 위반 일괄 검수 (혼절·맴돌았다·동갑내기·힐끗·쫓겨났다 등 28건 + 이탤릭 17건 strip + 인칭대명사 호명 변경) → DRAFT → 🔒 **LOCKED** | 사용자 선언 |
+| 2026-06-04 | `chapter-1/chapter-1-part-2.md` | 오타·맞춤법 일괄 검수 (가르엔→유지·꼿아→꽂아·꿈속/어잿밤→어젯밤·깨닳은→깨달은·화염분사을→화염분사를 4건·아랫턱쪽→아랫턱 쪽·찢는동안→찧는 동안·내가하는→내가 아는·분타는→불타는·샐라리아→셀라리아·세배→세 배·등 총 90건) | MoAI |
+| 2026-06-04 | `chapter-1/chapter-1-part-2.md` | **분할**: 1.5-1~1.5-5 (엘 떠남까지·8,779자) 유지·1.5-6~1.5-7 (후반)을 신규 `chapter-1-part-3.md` (7,949자)로 분리. 분할 사유 = 사용자 정합 *8000자 정도로 끊기·엘 떠나는 시점*. spec 동기화: `spec-chapter-1-part-2.md` 분할 안내문 추가, 신규 `spec-chapter-1-part-3.md` 생성, `spec-chapter-1.md` 회차 표·§2.4 신설·기존 §2.4~2.7 → §2.5~2.8 시프트 | MoAI |
+| 2026-06-04 | `chapter-1/chapter-1-part-{3,4}.md` → `chapter-1-part-{4,5}.md` (한 칸 밀기) + spec-chapter-1-part-{3,4,5,6}.md → spec-chapter-1-part-{4,5,6,7}.md (git mv) + 모든 cross-ref 일괄 시프트 (`spec-chapter-1-part-N`, `part-1-N` 패턴) + 본문 헤더/다음 회차 링크 정합 | MoAI |
+| 2026-06-04 | `chapter-1/chapter-1-part-1.md` + `chapter-1-part-2.md` | DRAFT → 🔒 **LOCKED** (사용자 정합 — 1,2 회차 오타 검수 후 stable 잠금) | MoAI (사용자 권장 답변) |
 
 ---
 
