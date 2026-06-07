@@ -17,7 +17,7 @@
 
 - `lithunia-world-overview.md` — 세계관 진입점
 - `mana-and-entropic-density.md` — 물리 토대 (마나/엔트로픽 농도)
-- `life-reset-and-demon-war.md` — 생명 초기화와 신좌침묵
+- `life-reset-and-demon-war.md` — 생명 초기화와 신들의침묵
 - `lithunia-history.md` — 대륙사
 - `great-sage-and-entroper.md` — 대현자와 앤트로퍼
 - `pantheon.md` — 신=법칙 체계 (르세프/크세프 + 하위 법칙)
