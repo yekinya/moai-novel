@@ -354,4 +354,4 @@
 
 ---
 
-→ 다음 회차: [Part 7.. 세번 강의 회전](./chapter-1-part-7.md)
+→ 다음 회차: [Part 7.. 전쟁의 도구](./chapter-1-part-7.md)
