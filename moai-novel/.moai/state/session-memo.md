@@ -2,7 +2,7 @@
 
 ## P1: Session Context
 
-session_id: bda0d85b-26d3-4839-88e7-0c5b4781de7c
+session_id: b3989b4c-5f56-42d5-8f5d-c8ab7d84b2fb
 cwd: /Users/leebyeongdeok/workspace/moai-novel/moai-novel
 event: PreCompact
 
