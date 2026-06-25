@@ -3,9 +3,9 @@
 > **본 spec은 *Chapter 4 본문 집필 진입 전 *요건 정의* 및 *서브 챕터 설계 초안***. 사용자 검토 후 *회차 단위 파일 분할* + *집필 시작*.
 >
 > 이전 Part: [`./part-3.md`](./part-3.md) (첫 마왕 처치 + 9써클·소드 엠퍼러급 도달 + 의수 4단계 설계 + 드래곤 1체 우연 사망)
-> 시놉시스 맥락: [`../synopsis.md`](../synopsis.md) — 재정의 반영
-> 인물·심리: [`../characters-psychology.md`](../characters-psychology.md)
-> 서사 사양: [`../narrative-devices.md`](../narrative-devices.md)
+> 시놉시스 맥락: [`../project/novel/synopsis.md`](../project/novel/synopsis.md) — 재정의 반영
+> 인물·심리: [`../project/novel/characters-psychology.md`](../project/novel/characters-psychology.md)
+> 서사 사양: [`../project/novel/narrative-devices.md`](../project/novel/narrative-devices.md)
 
 ---
 
@@ -36,7 +36,7 @@
 - **A3**: 드워프 *모루의 왕 *그라하르** (가명, 사피엔 외부 발음 표기) 와의 면담. *카엘의 검은 사슬을 *그들의 본태 시야* 로 인지함*
 - **A4**: 드워프의 *조건* — *살라멘티의 축복 의식* 을 카엘이 *통과* 하면 아다만티움 의수 제작. 통과 못 하면 *영구 거절*
 - **A5**: 축복 의식 — *몸의 일부를 돌로 변환하는 시험*. 카엘이 *오른팔 의수 일부를 *임시 돌화*** 시켜 통과. *잉그리드 사원 몽크 비전 차용*
-- **A6**: **의수 4단계 — 아다만티움 의수 완성**. 양팔 비대칭 사양 ([`13-아티팩트와-의수.md §3.1.4`](../../world/13-아티팩트와-의수.md))
+- **A6**: **의수 4단계 — 아다만티움 의수 완성**. 양팔 비대칭 사양 ([`13-아티팩트와-의수.md §3.1.4`](../project/world/13-아티팩트와-의수.md))
 - **A7**: 드워프와의 *비공식 동맹* — 본격적 군사 협력은 아님. 그러나 *모루의 산 방문 권한* 영구
 
 ### 축 B — *두 번째 마왕 + 고룡 + 정령왕 — 연속 표적 사냥*
@@ -267,9 +267,9 @@
 
 각 회차 집필 시:
 
-- [ ] [`../style-guide.md §9`](../style-guide.md#9-작가-체크리스트-회차-집필-후)
-- [ ] [`../characters-psychology.md §13`](../characters-psychology.md#13-대사-일관성-체크리스트)
-- [ ] [`../narrative-devices.md §7.3`](../narrative-devices.md#73-집필-시-자문--각-회차)
+- [ ] [`../project/novel/style-guide.md §9`](../project/novel/style-guide.md#9-작가-체크리스트-회차-집필-후)
+- [ ] [`../project/novel/characters-psychology.md §13`](../project/novel/characters-psychology.md#13-대사-일관성-체크리스트)
+- [ ] [`../project/novel/narrative-devices.md §7.3`](../project/novel/narrative-devices.md#73-집필-시-자문--각-회차)
 - [ ] 8축 (위 §7)
 
 ---
@@ -277,9 +277,9 @@
 ## 10. 참조
 
 - [`./part-3.md`](./part-3.md) — 이전 Part
-- [`../synopsis.md`](../synopsis.md) — 4부 매크로 시놉시스 (Chapter 4 재정의 반영 필요)
-- [`../../world/11-드래곤-사회와-리셋.md`](../../world/11-드래곤-사회와-리셋.md) — 드래곤·정령왕 자제 논리 (Chapter 4 협상의 기반)
-- [`../../world/09-대현자와-앤트로퍼.md`](../../world/09-대현자와-앤트로퍼.md) — 기계화 사단 = *키메라 결사 + 데미안 + 헤븐즈 하르엔* 의 연합 변형
-- [`../../world/13-아티팩트와-의수.md §3.1.4·3.1.5`](../../world/13-아티팩트와-의수.md) — 의수 4·5단계
-- [`../../world/10-마계와-리셋.md`](../../world/10-마계와-리셋.md) — 마왕·고룡·정령왕 처치 메커니즘
-- [`../../world/09-대현자와-앤트로퍼.md`](../../world/09-대현자와-앤트로퍼.md) — *DNA 캐리어 광범위 일시 약화* 의 메커니즘
+- [`../project/novel/synopsis.md`](../project/novel/synopsis.md) — 4부 매크로 시놉시스 (Chapter 4 재정의 반영 필요)
+- [`../project/world/11-드래곤-사회와-리셋.md`](../project/world/11-드래곤-사회와-리셋.md) — 드래곤·정령왕 자제 논리 (Chapter 4 협상의 기반)
+- [`../project/world/09-대현자와-앤트로퍼.md`](../project/world/09-대현자와-앤트로퍼.md) — 기계화 사단 = *키메라 결사 + 데미안 + 헤븐즈 하르엔* 의 연합 변형
+- [`../project/world/13-아티팩트와-의수.md §3.1.4·3.1.5`](../project/world/13-아티팩트와-의수.md) — 의수 4·5단계
+- [`../project/world/10-마계와-리셋.md`](../project/world/10-마계와-리셋.md) — 마왕·고룡·정령왕 처치 메커니즘
+- [`../project/world/09-대현자와-앤트로퍼.md`](../project/world/09-대현자와-앤트로퍼.md) — *DNA 캐리어 광범위 일시 약화* 의 메커니즘

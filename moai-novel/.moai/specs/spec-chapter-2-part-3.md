@@ -223,19 +223,19 @@ Ch2 P2 종결 직후 — 카엘 단독 강철제국 변경 진입. *스틸만 �
 ## 레퍼런스
 
 ### 세계관·도메인
-- [`../../world/05-팔왕국-고대와-현대.md`](../../world/05-팔왕국-고대와-현대.md) — 강철제국 (오르난) + 그라스 + 동부마녀연맹
-- [`../../world/12-마녀령-동부.md`](../../world/12-마녀령-동부.md) — 9혈 원탁 + 모르간 가문 흑혈
-- [`../../world/09-대현자와-앤트로퍼.md`](../../world/09-대현자와-앤트로퍼.md) — 카르엔 학파 잠적 분파 + 그라스 노 장인 외부 인척
+- [`../project/world/05-팔왕국-고대와-현대.md`](../project/world/05-팔왕국-고대와-현대.md) — 강철제국 (오르난) + 그라스 + 동부마녀연맹
+- [`../project/world/12-마녀령-동부.md`](../project/world/12-마녀령-동부.md) — 9혈 원탁 + 모르간 가문 흑혈
+- [`../project/world/09-대현자와-앤트로퍼.md`](../project/world/09-대현자와-앤트로퍼.md) — 카르엔 학파 잠적 분파 + 그라스 노 장인 외부 인척
 
 ### 마법·전투
-- [`../../world/13-아티팩트와-의수.md`](../../world/13-아티팩트와-의수.md) — 강화강철 의수 3단계
-- [`../../systems/02-검술-시스템.md`](../../systems/02-검술-시스템.md) — 공허검 1·2원리 부분 습득 + 3원리 허 불완전
-- [`../../systems/05-앤트로퍼-내공.md`](../../systems/05-앤트로퍼-내공.md) — 내공 + 공허 호흡 완벽 융합 정착
-- [`../../systems/02-검술-시스템.md`](../../systems/02-검술-시스템.md) — 강철제국 검술 1·2단계 기초 정점
+- [`../project/world/13-아티팩트와-의수.md`](../project/world/13-아티팩트와-의수.md) — 강화강철 의수 3단계
+- [`../project/systems/02-검술-시스템.md`](../project/systems/02-검술-시스템.md) — 공허검 1·2원리 부분 습득 + 3원리 허 불완전
+- [`../project/systems/05-앤트로퍼-내공.md`](../project/systems/05-앤트로퍼-내공.md) — 내공 + 공허 호흡 완벽 융합 정착
+- [`../project/systems/02-검술-시스템.md`](../project/systems/02-검술-시스템.md) — 강철제국 검술 1·2단계 기초 정점
 
 ### 인물
-- [`../characters.md`](../characters.md) — 그라스 노 장인 / 강철제국 본가 검사 / 린엔 모르간 / 모르간 솔테 / 모르간 린이엔 / 카이렌 스틸반
-- [`../characters-psychology.md`](../characters-psychology.md)
+- [`../project/novel/characters.md`](../project/novel/characters.md) — 그라스 노 장인 / 강철제국 본가 검사 / 린엔 모르간 / 모르간 솔테 / 모르간 린이엔 / 카이렌 스틸반
+- [`../project/novel/characters-psychology.md`](../project/novel/characters-psychology.md)
 
 ### 서사
 - [`./spec-chapter-2.md`](./spec-chapter-2.md) — Ch2 마스터 §10-13

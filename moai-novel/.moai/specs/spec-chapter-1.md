@@ -3,10 +3,10 @@
 > **본 spec은 *본문 집필 직전의 implementation contract***. 사용자 검토 후 *집필 시작*.
 >
 > 회차 디테일: 본 spec 내 *📝 회차 본격 비트* 섹션 + part 별 spec (`./spec-chapter-1-prologue.md`, `./spec-chapter-1-part-1.md` ~ `part-8.md`)
-> 시놉시스 매크로: [`../synopsis.md`](../synopsis.md)
-> 인물·심리: [`../characters-psychology.md`](../characters-psychology.md)
-> 문체: [`../style-guide.md`](../style-guide.md)
-> 서사 사양: [`../narrative-devices.md`](../narrative-devices.md)
+> 시놉시스 매크로: [`../project/novel/synopsis.md`](../project/novel/synopsis.md)
+> 인물·심리: [`../project/novel/characters-psychology.md`](../project/novel/characters-psychology.md)
+> 문체: [`../project/novel/style-guide.md`](../project/novel/style-guide.md)
+> 서사 사양: [`../project/novel/narrative-devices.md`](../project/novel/narrative-devices.md)
 
 ---
 
@@ -92,7 +92,7 @@
   - 1.5-6 홀로 일 년 — 엘 떠난 후 카엘 단독 1년·흑→적→청 등급 변화·길드 인물 3인 노하우 견식 (라젠 다섯 점·도리 명치 시작·마릿 약초 일곱 종)·오크 분쟁지 청등급 의뢰 (갈비뼈 2대·검 두 동강·안면 분사 튕김·안개 다섯 점 응용 획득·보수 절반)
   - 1.5-7 두 번째 여행자 — 학자 마린 동행 (도서·약초 전달자)·둘째 날 모닥불 정통 3단계 화염구 견식 + 카엘 자기식 분사 + 정통 절차 시도 실패 + 안개 다섯 점 응용·마린의 마나 운용 응용 전수 (냉각·바람 칼날)·셋째 날 미드그레이드 외곽 델란 거처 도착·델란 시연 확인·카르엔 사이엔 앞 추천장 작성·봉랍 전 카엘에게 한 번 보임
 - **세부**: [`./spec-chapter-1-part-3.md`](./spec-chapter-1-part-3.md) (분할 spec)
-- **사유**: 본문 [`./../../../../contents/chapter-1/chapter-1-part-2.md`] 분량 8000자 초과 (구 21,324자) — 사용자 정합 *엘 떠나는 시점*에서 분할
+- **사유**: 본문 [`./../../contents/chapter-1/chapter-1-part-2.md`] 분량 8000자 초과 (구 21,324자) — 사용자 정합 *엘 떠나는 시점*에서 분할
 
 ### 2.5 part-1-4 — 셀라리아 (전반): 학도의 길 (6회, 2-1 ~ 2-6)
 
@@ -297,9 +297,9 @@
 
 각 회차 집필 시 다음 항목 *모두 통과* :
 
-- [ ] [`../style-guide.md §9`](../style-guide.md#9-작가-체크리스트-회차-집필-후) 11개 항목
-- [ ] [`../characters-psychology.md §13`](../characters-psychology.md#13-대사-일관성-체크리스트) 8개 항목
-- [ ] [`../narrative-devices.md §7.3`](../narrative-devices.md#73-집필-시-자문--각-회차) 회차별 자문
+- [ ] [`../project/novel/style-guide.md §9`](../project/novel/style-guide.md#9-작가-체크리스트-회차-집필-후) 11개 항목
+- [ ] [`../project/novel/characters-psychology.md §13`](../project/novel/characters-psychology.md#13-대사-일관성-체크리스트) 8개 항목
+- [ ] [`../project/novel/narrative-devices.md §7.3`](../project/novel/narrative-devices.md#73-집필-시-자문--각-회차) 회차별 자문
 - [ ] 8축 ((chapters/ 폐기, 본 spec 본문 참조) 회차 통합 가이드)
 - [ ] 단서 노출·회수 일정 ([본 spec §5](#5-단서-무결성--part-1))
 
@@ -308,10 +308,10 @@
 ## 12. 참조
 
 - *chapters/ 디렉터리 폐기 (2026-05-30) — 본 spec + part 별 spec이 self-contained 단일 출처*
-- [`../synopsis.md`](../synopsis.md) — 4부 매크로 시놉시스
-- [`../characters-psychology.md`](../characters-psychology.md)
-- [`../style-guide.md`](../style-guide.md)
-- [`../narrative-devices.md`](../narrative-devices.md)
+- [`../project/novel/synopsis.md`](../project/novel/synopsis.md) — 4부 매크로 시놉시스
+- [`../project/novel/characters-psychology.md`](../project/novel/characters-psychology.md)
+- [`../project/novel/style-guide.md`](../project/novel/style-guide.md)
+- [`../project/novel/narrative-devices.md`](../project/novel/narrative-devices.md)
 - [`./part-2.md`](./part-2.md) — Chapter 2 spec (다음 매크로)
 - [`./part-3.md`](./part-3.md) — Chapter 3 spec
 - [`./part-4.md`](./part-4.md) — Chapter 4 spec

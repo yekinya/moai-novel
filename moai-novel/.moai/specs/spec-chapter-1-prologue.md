@@ -183,26 +183,26 @@
 ## 레퍼런스
 
 ### 세계관·도메인
-- [`../../world/lithunia-world-overview.md`](../../world/lithunia-world-overview.md) — 리투니아 대륙 개요
-- [`../../world/02-역사와-연표.md`](../../world/02-역사와-연표.md) — 카르샤·바이서스 관계 (세번 강 국경)
-- [`../../world/03-지리와-장소.md`](../../world/03-지리와-장소.md) — 세이렌 수도·왕궁 백색 회랑
-- [`../../world/08-종교와-신앙.md`](../../world/08-종교와-신앙.md) — 카르샤 신성 신앙·손 모음 문장 (왕가 벽화)
-- [`../../world/09-대현자와-앤트로퍼.md`](../../world/09-대현자와-앤트로퍼.md) — 앤트로퍼 금제 사슬 (붉은 사슬 7마디)
+- [`../project/world/lithunia-world-overview.md`](../project/world/lithunia-world-overview.md) — 리투니아 대륙 개요
+- [`../project/world/02-역사와-연표.md`](../project/world/02-역사와-연표.md) — 카르샤·바이서스 관계 (세번 강 국경)
+- [`../project/world/03-지리와-장소.md`](../project/world/03-지리와-장소.md) — 세이렌 수도·왕궁 백색 회랑
+- [`../project/world/08-종교와-신앙.md`](../project/world/08-종교와-신앙.md) — 카르샤 신성 신앙·손 모음 문장 (왕가 벽화)
+- [`../project/world/09-대현자와-앤트로퍼.md`](../project/world/09-대현자와-앤트로퍼.md) — 앤트로퍼 금제 사슬 (붉은 사슬 7마디)
 
 ### 마법·전투 시스템
-- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — 즉발판 (균열의 빛) + 시전자 사망 비가역
-- [`../../systems/07-전투-시스템.md`](../../systems/07-전투-시스템.md) — 5합 호각 결투 + 신성안
-- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — *너는 무엇을 보고 있는가* 의 원리 출처
+- [`../project/systems/01-마법-시스템.md`](../project/systems/01-마법-시스템.md) — 즉발판 (균열의 빛) + 시전자 사망 비가역
+- [`../project/systems/07-전투-시스템.md`](../project/systems/07-전투-시스템.md) — 5합 호각 결투 + 신성안
+- [`../project/systems/01-마법-시스템.md`](../project/systems/01-마법-시스템.md) — *너는 무엇을 보고 있는가* 의 원리 출처
 
 ### 인물
-- [`../characters.md`](../characters.md) — 카엘 / 알레이언 6세 / 오를란 베르하르트
-- [`../characters-psychology.md`](../characters-psychology.md) — 카엘 *0.5초 자각의 창* 심리 정통
+- [`../project/novel/characters.md`](../project/novel/characters.md) — 카엘 / 알레이언 6세 / 오를란 베르하르트
+- [`../project/novel/characters-psychology.md`](../project/novel/characters-psychology.md) — 카엘 *0.5초 자각의 창* 심리 정통
 
 ### 서사·플롯
-- [`../synopsis.md`](../synopsis.md) — 시놉시스 매크로
-- [`../plot.md`](../plot.md) — *in medias res* 개막 결단
-- [`../narrative-devices.md`](../narrative-devices.md) — *얇은 금속음·가장자리 이중상·회상 4컷* 패턴
-- [`../style-guide.md`](../style-guide.md) — 1인칭·짧은 호흡·정보 덤프 금지
+- [`../project/novel/synopsis.md`](../project/novel/synopsis.md) — 시놉시스 매크로
+- [`../project/novel/plot.md`](../project/novel/plot.md) — *in medias res* 개막 결단
+- [`../project/novel/narrative-devices.md`](../project/novel/narrative-devices.md) — *얇은 금속음·가장자리 이중상·회상 4컷* 패턴
+- [`../project/novel/style-guide.md`](../project/novel/style-guide.md) — 1인칭·짧은 호흡·정보 덤프 금지
 
 ### 본 Chapter 1 다른 spec
 - [`./spec-chapter-1.md`](./spec-chapter-1.md) — Ch1 마스터

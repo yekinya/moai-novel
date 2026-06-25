@@ -317,7 +317,7 @@
 
 1. **본문 작성 전 — spec 확인 필수**
    - 본문 파일 `contents/chapter{N}/{M}-part-{M}.md` 작성 시
-   - *반드시* `.moai/project/novel/specs/spec-chapter-{N}-part-{M}.md` 먼저 읽고
+   - *반드시* `.moai/specs/spec-chapter-{N}-part-{M}.md` 먼저 읽고
    - spec의 *회차 구성·핵심 비트·인물 캐스팅·이동동선·금지 항목·종결 후크* 모두 반영
 
 2. **본문 = spec 구현**

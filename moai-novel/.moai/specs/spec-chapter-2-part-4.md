@@ -188,17 +188,17 @@ Ch2 P3 종결 (강철제국 본가 도착 직전) 직후 — *카엘이 본가 �
 ## 레퍼런스
 
 ### 세계관·도메인
-- [`../../world/05-팔왕국-고대와-현대.md`](../../world/05-팔왕국-고대와-현대.md) — 강철제국 본가 + 앨더스톰
-- [`../../world/13-아티팩트와-의수.md`](../../world/13-아티팩트와-의수.md) — 강화강철 + 룬 결각 1차 작업
+- [`../project/world/05-팔왕국-고대와-현대.md`](../project/world/05-팔왕국-고대와-현대.md) — 강철제국 본가 + 앨더스톰
+- [`../project/world/13-아티팩트와-의수.md`](../project/world/13-아티팩트와-의수.md) — 강화강철 + 룬 결각 1차 작업
 
 ### 마법·전투
-- [`../../systems/05-앤트로퍼-내공.md`](../../systems/05-앤트로퍼-내공.md) — 마법력 부족 3중 진단 매개
-- [`../../systems/02-검술-시스템.md`](../../systems/02-검술-시스템.md) — 공허 호흡 + 3중 융합
-- [`../../systems/02-검술-시스템.md`](../../systems/02-검술-시스템.md) — 카엘 검술 진화
+- [`../project/systems/05-앤트로퍼-내공.md`](../project/systems/05-앤트로퍼-내공.md) — 마법력 부족 3중 진단 매개
+- [`../project/systems/02-검술-시스템.md`](../project/systems/02-검술-시스템.md) — 공허 호흡 + 3중 융합
+- [`../project/systems/02-검술-시스템.md`](../project/systems/02-검술-시스템.md) — 카엘 검술 진화
 
 ### 인물
-- [`../characters.md`](../characters.md) — 스틸만 세이른 / 그라엔 호란 / 마르덴 라온
-- [`../characters-psychology.md`](../characters-psychology.md)
+- [`../project/novel/characters.md`](../project/novel/characters.md) — 스틸만 세이른 / 그라엔 호란 / 마르덴 라온
+- [`../project/novel/characters-psychology.md`](../project/novel/characters-psychology.md)
 
 ### 서사
 - [`./spec-chapter-2.md`](./spec-chapter-2.md) — Ch2 마스터 §14-15

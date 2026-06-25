@@ -3,7 +3,7 @@
 > Chapter 1 overview: [`./spec-chapter-1.md`](./spec-chapter-1.md)
 > 분할 부모 spec: [`./spec-chapter-1-part-2.md`](./spec-chapter-1-part-2.md) (전반부·1.5-1~1.5-5)
 >
-> **[분할 안내 — 2026-06-04 사용자 정합]** 본 spec은 [`./spec-chapter-1-part-2.md`](./spec-chapter-1-part-2.md) (구 단일 *떠돌이의 길* spec)에서 **1.5-6 / 1.5-7 두 회차만 분리한 후반부 spec**이다. 본문 [`../../../../contents/chapter-1/chapter-1-part-3.md`] 분량 7949자 (8000±200 권장 범위).
+> **[분할 안내 — 2026-06-04 사용자 정합]** 본 spec은 [`./spec-chapter-1-part-2.md`](./spec-chapter-1-part-2.md) (구 단일 *떠돌이의 길* spec)에서 **1.5-6 / 1.5-7 두 회차만 분리한 후반부 spec**이다. 본문 [`../../contents/chapter-1/chapter-1-part-3.md`] 분량 7949자 (8000±200 권장 범위).
 
 ## 이동동선·지리
 
@@ -68,16 +68,16 @@
 ## 레퍼런스
 
 ### 세계관·도메인
-- [`../../world/03-지리와-장소.md`](../../world/03-지리와-장소.md) — 카르엔·미드그레이드 지리
-- [`../../world/04-종족과-문화.md`](../../world/04-종족과-문화.md) — 오크 분쟁지 단편 (1.5-6)
-- [`../../world/15-생물과-생태.md`](../../world/15-생물과-생태.md) — 풀무늘대·곰·트롤·고블린 등 마수 부산물 매개
+- [`../project/world/03-지리와-장소.md`](../project/world/03-지리와-장소.md) — 카르엔·미드그레이드 지리
+- [`../project/world/04-종족과-문화.md`](../project/world/04-종족과-문화.md) — 오크 분쟁지 단편 (1.5-6)
+- [`../project/world/15-생물과-생태.md`](../project/world/15-생물과-생태.md) — 풀무늘대·곰·트롤·고블린 등 마수 부산물 매개
 
 ### 마법·전투 시스템
-- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — 정통 3단계 화염구 vs 자기식 1단계 분사·마나 운용 응용 (냉각·바람 칼날)
-- [`../../systems/07-전투-시스템.md`](../../systems/07-전투-시스템.md) — 도리 명치 시작 검 자세
+- [`../project/systems/01-마법-시스템.md`](../project/systems/01-마법-시스템.md) — 정통 3단계 화염구 vs 자기식 1단계 분사·마나 운용 응용 (냉각·바람 칼날)
+- [`../project/systems/07-전투-시스템.md`](../project/systems/07-전투-시스템.md) — 도리 명치 시작 검 자세
 
 ### 인물
-- [`../characters.md`](../characters.md) — 카엘 / 노른 / 라젠 / 도리 / 마릿 / 마린 / 델란
+- [`../project/novel/characters.md`](../project/novel/characters.md) — 카엘 / 노른 / 라젠 / 도리 / 마릿 / 마린 / 델란
 
 ### 본 Chapter 1 다른 spec
 - [`./spec-chapter-1.md`](./spec-chapter-1.md) — Ch1 마스터 (분할 후 §2.4 본 회차 인덱스)

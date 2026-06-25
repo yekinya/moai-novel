@@ -204,14 +204,14 @@ Ch2 P5 종결 (앨더스톰 복귀 직전) 직후 — *카엘이 마르덴 라�
 ## 레퍼런스
 
 ### 세계관·도메인
-- [`../../world/14-전설-인물.md`](../../world/14-전설-인물.md) — 행커만 + 일레인 맥필렌 + 후예 정통
-- [`../../world/11-드래곤-사회와-리셋.md`](../../world/11-드래곤-사회와-리셋.md) — 폴리모프 정통 + 흑색 드래곤 + 후예 보호 의식
-- [`../../world/05-팔왕국-고대와-현대.md`](../../world/05-팔왕국-고대와-현대.md) — 바이서스 라카르 9세 + 자식 명단 + 행커만 후예 의심
-- [`../../world/05-팔왕국-고대와-현대.md`](../../world/05-팔왕국-고대와-현대.md) — 바이서스 vs 카르샤 정치 본질
+- [`../project/world/14-전설-인물.md`](../project/world/14-전설-인물.md) — 행커만 + 일레인 맥필렌 + 후예 정통
+- [`../project/world/11-드래곤-사회와-리셋.md`](../project/world/11-드래곤-사회와-리셋.md) — 폴리모프 정통 + 흑색 드래곤 + 후예 보호 의식
+- [`../project/world/05-팔왕국-고대와-현대.md`](../project/world/05-팔왕국-고대와-현대.md) — 바이서스 라카르 9세 + 자식 명단 + 행커만 후예 의심
+- [`../project/world/05-팔왕국-고대와-현대.md`](../project/world/05-팔왕국-고대와-현대.md) — 바이서스 vs 카르샤 정치 본질
 
 ### 인물
-- [`../characters.md`](../characters.md) — 마르덴 라온 / 라카르 9세 + 6자식 / 라이세린 / 호스반 / 알레이언 6세 (회상)
-- [`../characters-psychology.md`](../characters-psychology.md) — 카엘의 분노 응축 정통
+- [`../project/novel/characters.md`](../project/novel/characters.md) — 마르덴 라온 / 라카르 9세 + 6자식 / 라이세린 / 호스반 / 알레이언 6세 (회상)
+- [`../project/novel/characters-psychology.md`](../project/novel/characters-psychology.md) — 카엘의 분노 응축 정통
 
 ### 서사
 - [`./spec-chapter-2.md`](./spec-chapter-2.md) — Ch2 마스터 §18

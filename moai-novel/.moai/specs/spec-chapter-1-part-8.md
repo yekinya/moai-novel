@@ -227,26 +227,26 @@ Part 5 §10-F 직후 — *바이서스 왕실 전국 추격령* 회피를 위해
 ## 레퍼런스
 
 ### 세계관·도메인
-- [`../../world/03-지리와-장소.md`](../../world/03-지리와-장소.md) — 셀라리아 외곽 비밀 안전 가옥 → 바이서스 북부 산악 → **드래곤 둥지 영역** (천년 이상 인간 침입 0) → 둥지 영역 절벽
-- [`../../world/lithunia-world-overview.md`](../../world/lithunia-world-overview.md) — 드래곤 영역 = *대륙 마나 평형의 자연 안전 지대*
-- [`../../world/04-종족과-문화.md`](../../world/04-종족과-문화.md) — 그린드래곤 카자르드 + 오우거·트롤·와이번 등 둥지 영역 마수
-- [`../../world/11-드래곤-사회와-리셋.md`](../../world/11-드래곤-사회와-리셋.md) — 드래곤 *영역 정통* (몬스터 자연 회피 자연 구배) + 인간 변신 정통 + 앤트로퍼 전승 기억 + 그린드래곤 종족 특화 (바람·독)
-- [`../../world/09-대현자와-앤트로퍼.md`](../../world/09-대현자와-앤트로퍼.md) — 앤트로퍼 *금제 균열 4회* 메커니즘 + 드래곤의 *역마나 흡수 + 살상 잔향* 감지 정통
+- [`../project/world/03-지리와-장소.md`](../project/world/03-지리와-장소.md) — 셀라리아 외곽 비밀 안전 가옥 → 바이서스 북부 산악 → **드래곤 둥지 영역** (천년 이상 인간 침입 0) → 둥지 영역 절벽
+- [`../project/world/lithunia-world-overview.md`](../project/world/lithunia-world-overview.md) — 드래곤 영역 = *대륙 마나 평형의 자연 안전 지대*
+- [`../project/world/04-종족과-문화.md`](../project/world/04-종족과-문화.md) — 그린드래곤 카자르드 + 오우거·트롤·와이번 등 둥지 영역 마수
+- [`../project/world/11-드래곤-사회와-리셋.md`](../project/world/11-드래곤-사회와-리셋.md) — 드래곤 *영역 정통* (몬스터 자연 회피 자연 구배) + 인간 변신 정통 + 앤트로퍼 전승 기억 + 그린드래곤 종족 특화 (바람·독)
+- [`../project/world/09-대현자와-앤트로퍼.md`](../project/world/09-대현자와-앤트로퍼.md) — 앤트로퍼 *금제 균열 4회* 메커니즘 + 드래곤의 *역마나 흡수 + 살상 잔향* 감지 정통
 
 ### 마법·전투 시스템
-- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — **드래곤 *용언 3종*** (풍압의 칼·바람의 길·잔상환술) + 카엘 *마검사 변칙 5종*
-- [`../../systems/07-전투-시스템.md`](../../systems/07-전투-시스템.md) — *기습 + 도주 0.5초 계산* + 드래곤 발길질의 차원 위력
-- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — *바이서스 외곽 연구소 5년 도서관*의 드래곤 영역 정보 출처
+- [`../project/systems/01-마법-시스템.md`](../project/systems/01-마법-시스템.md) — **드래곤 *용언 3종*** (풍압의 칼·바람의 길·잔상환술) + 카엘 *마검사 변칙 5종*
+- [`../project/systems/07-전투-시스템.md`](../project/systems/07-전투-시스템.md) — *기습 + 도주 0.5초 계산* + 드래곤 발길질의 차원 위력
+- [`../project/systems/01-마법-시스템.md`](../project/systems/01-마법-시스템.md) — *바이서스 외곽 연구소 5년 도서관*의 드래곤 영역 정보 출처
 
 ### 인물
-- [`../characters.md`](../characters.md) — 카엘 / **카르샤 세파 공주 (17세)** / **그린드래곤 카자르드 (Cazald, 약 1000살, 인간 변신 = 수염 덮수룩한 중년 나무꾼)** / 셀라리아 외곽 안전 가옥 내응 신부 / 바이서스 일반 추격대
-- [`../characters-psychology.md`](../characters-psychology.md) — 카엘의 *치명적 오판* 심리 + 세파의 *3차 살해 시도 자기 의지 포기* + 드래곤의 *침착한 영역 정통*
+- [`../project/novel/characters.md`](../project/novel/characters.md) — 카엘 / **카르샤 세파 공주 (17세)** / **그린드래곤 카자르드 (Cazald, 약 1000살, 인간 변신 = 수염 덮수룩한 중년 나무꾼)** / 셀라리아 외곽 안전 가옥 내응 신부 / 바이서스 일반 추격대
+- [`../project/novel/characters-psychology.md`](../project/novel/characters-psychology.md) — 카엘의 *치명적 오판* 심리 + 세파의 *3차 살해 시도 자기 의지 포기* + 드래곤의 *침착한 영역 정통*
 
 ### 서사·아티팩트
-- [`../synopsis.md`](../synopsis.md) — Ch1 종결 비트 (Part 6 5-5 공중 발길질 직후 암전)
-- [`../plot.md`](../plot.md) — 본작 *분기점 3 (두 팔 상실 → Ch1 극적 종결)* 정통
-- [`../narrative-devices.md`](../narrative-devices.md) — *낙하 페이드 + 멀리도 날아왔네 한 마디* 회수 시드 + *붉은 머리끈 충동 구매* + *부두인형 5-5 세파 발견*
-- [`../style-guide.md`](../style-guide.md) — 5-5 *짧고 압축된 단문 + 고통의 1인칭 절단*
+- [`../project/novel/synopsis.md`](../project/novel/synopsis.md) — Ch1 종결 비트 (Part 6 5-5 공중 발길질 직후 암전)
+- [`../project/novel/plot.md`](../project/novel/plot.md) — 본작 *분기점 3 (두 팔 상실 → Ch1 극적 종결)* 정통
+- [`../project/novel/narrative-devices.md`](../project/novel/narrative-devices.md) — *낙하 페이드 + 멀리도 날아왔네 한 마디* 회수 시드 + *붉은 머리끈 충동 구매* + *부두인형 5-5 세파 발견*
+- [`../project/novel/style-guide.md`](../project/novel/style-guide.md) — 5-5 *짧고 압축된 단문 + 고통의 1인칭 절단*
 - **카엘의 *바이서스 시기 챙긴 보호구 3종*** (Part 4 시드 + Part 5 회수)
 - **세파의 *카르샤 왕가 비전 신성 단검*** (Part 5 §10 시드)
 - **드래곤 발톱 비늘 한 조각** (Ch2~3 역금제 의식 매개 시드)

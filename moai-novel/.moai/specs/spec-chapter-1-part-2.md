@@ -144,7 +144,7 @@
 
 ## 이종족 배경 배치 (Race Presence Seeds)
 
-본 Part는 무분별한 판타지 크리처를 남발하지 않으면서도 세계관 깊이를 보이기 위해 *세 종족의 배경 배치*를 다음과 같이 의무화한다. 출처: [`../../world/04-종족과-문화.md`](../../world/04-종족과-문화.md) §6·§7·§8 (드워프·하플링·오크) 및 §2 (백색 엘프).
+본 Part는 무분별한 판타지 크리처를 남발하지 않으면서도 세계관 깊이를 보이기 위해 *세 종족의 배경 배치*를 다음과 같이 의무화한다. 출처: [`../project/world/04-종족과-문화.md`](../project/world/04-종족과-문화.md) §6·§7·§8 (드워프·하플링·오크) 및 §2 (백색 엘프).
 
 ### 1.5-3 노이른 객점 — 하플링의 실질적 밀착 [HARD]
 - 객점 *짠내 도박장 지하 구석*에 사피엔스의 은화 주머니를 교묘하게 터는 **하플링 사기꾼 1~2명** 또는 *용병 길드 중개 수수료를 뜯어내며 마차 통행증을 위조해 파는 영악한 하플링 수송 업자*를 배경으로 배치한다.
@@ -322,24 +322,24 @@
 ## 레퍼런스
 
 ### 세계관·도메인
-- [`../../world/03-지리와-장소.md`](../../world/03-지리와-장소.md) — 가르엔·노이른·카르엔·미드그레이드 지리·교역 동선
-- [`../../world/02-역사와-연표.md`](../../world/02-역사와-연표.md) — 헤븐즈 변경 평민 경제 구조
-- [`../../world/09-대현자와-앤트로퍼.md`](../../world/09-대현자와-앤트로퍼.md) — 잔향의 *후각적 체감*
-- [`../../world/04-종족과-문화.md`](../../world/04-종족과-문화.md) — 평민 떠돌이·길드 잡일 사회 구조
+- [`../project/world/03-지리와-장소.md`](../project/world/03-지리와-장소.md) — 가르엔·노이른·카르엔·미드그레이드 지리·교역 동선
+- [`../project/world/02-역사와-연표.md`](../project/world/02-역사와-연표.md) — 헤븐즈 변경 평민 경제 구조
+- [`../project/world/09-대현자와-앤트로퍼.md`](../project/world/09-대현자와-앤트로퍼.md) — 잔향의 *후각적 체감*
+- [`../project/world/04-종족과-문화.md`](../project/world/04-종족과-문화.md) — 평민 떠돌이·길드 잡일 사회 구조
 
 ### 마법·전투 시스템
-- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — 정통 *3단계 화염구* vs 자기만의 *1단계 직관 시전*
-- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — 마린의 정통 마법 교습 출처
-- [`../../systems/07-전투-시스템.md`](../../systems/07-전투-시스템.md) — 검객 글라렌·엘의 검술 톤
+- [`../project/systems/01-마법-시스템.md`](../project/systems/01-마법-시스템.md) — 정통 *3단계 화염구* vs 자기만의 *1단계 직관 시전*
+- [`../project/systems/01-마법-시스템.md`](../project/systems/01-마법-시스템.md) — 마린의 정통 마법 교습 출처
+- [`../project/systems/07-전투-시스템.md`](../project/systems/07-전투-시스템.md) — 검객 글라렌·엘의 검술 톤
 
 ### 인물
-- [`../characters.md`](../characters.md) — 카엘 / 글라렌 / 마린 / 엘 / 델란 / 도적 5인
-- [`../characters-psychology.md`](../characters-psychology.md) — 엘의 *연민과 거리감* + *침묵으로 알아챔*
+- [`../project/novel/characters.md`](../project/novel/characters.md) — 카엘 / 글라렌 / 마린 / 엘 / 델란 / 도적 5인
+- [`../project/novel/characters-psychology.md`](../project/novel/characters-psychology.md) — 엘의 *연민과 거리감* + *침묵으로 알아챔*
 
 ### 서사·아티팩트
-- [`../synopsis.md`](../synopsis.md) — Part 1-2 회차 비트 표
-- [`../narrative-devices.md`](../narrative-devices.md) — *호흡은 코로* 3중 반복 + *냄새* 메타포 (§1.7 잔향 신체화)
-- [`../style-guide.md`](../style-guide.md) — 3인칭 근접·짠내 묘사
+- [`../project/novel/synopsis.md`](../project/novel/synopsis.md) — Part 1-2 회차 비트 표
+- [`../project/novel/narrative-devices.md`](../project/novel/narrative-devices.md) — *호흡은 코로* 3중 반복 + *냄새* 메타포 (§1.7 잔향 신체화)
+- [`../project/novel/style-guide.md`](../project/novel/style-guide.md) — 3인칭 근접·짠내 묘사
 - *부두인형* — [`./spec-chapter-1-part-1.md`](./spec-chapter-1-part-1.md) 출처. 엘이 침묵으로 알아챔
 - *친조부의 책* — [`./spec-chapter-1-part-1.md`](./spec-chapter-1-part-1.md) 3대 양도. 본 Part 카엘이 *반복 읽기 + 첫 문장 자각 시작*
 

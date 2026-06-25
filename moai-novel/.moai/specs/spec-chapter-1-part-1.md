@@ -166,22 +166,22 @@
 ## 레퍼런스
 
 ### 세계관·도메인
-- [`../../world/lithunia-world-overview.md`](../../world/lithunia-world-overview.md) — 리투니아 대륙 + 헤븐즈 킹덤 외곽
-- [`../../world/03-지리와-장소.md`](../../world/03-지리와-장소.md) — 노이엔 변경 위치·헤븐즈 행정 구조
-- [`../../world/10-마계와-리셋.md`](../../world/10-마계와-리셋.md) — 엔트로픽 농도 + *검은씨* 마을 옛 이름
-- [`../../world/09-대현자와-앤트로퍼.md`](../../world/09-대현자와-앤트로퍼.md) — 앤트로퍼·잔향·약 발현 캐리어 정통 (알린)
-- [`../../world/14-전설-인물.md`](../../world/14-전설-인물.md) — 친조부 알리스 + 친조모 이렐라 (카르엔 학파 잠적 분파)
-- [`../../world/literature/fragments.md`](../../world/literature/fragments.md) — *검은씨* 전승 단편
+- [`../project/world/lithunia-world-overview.md`](../project/world/lithunia-world-overview.md) — 리투니아 대륙 + 헤븐즈 킹덤 외곽
+- [`../project/world/03-지리와-장소.md`](../project/world/03-지리와-장소.md) — 노이엔 변경 위치·헤븐즈 행정 구조
+- [`../project/world/10-마계와-리셋.md`](../project/world/10-마계와-리셋.md) — 엔트로픽 농도 + *검은씨* 마을 옛 이름
+- [`../project/world/09-대현자와-앤트로퍼.md`](../project/world/09-대현자와-앤트로퍼.md) — 앤트로퍼·잔향·약 발현 캐리어 정통 (알린)
+- [`../project/world/14-전설-인물.md`](../project/world/14-전설-인물.md) — 친조부 알리스 + 친조모 이렐라 (카르엔 학파 잠적 분파)
+- [`../project/world/literature/fragments.md`](../project/world/literature/fragments.md) — *검은씨* 전승 단편
 
 ### 마법·시스템
-- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — 마나 점화 (폐허 마탑 첫 점화)
-- [`../../systems/01-마법-시스템.md`](../../systems/01-마법-시스템.md) — *세상을 미워하는 자는 마나를 다루지 마라* 문장의 원 출처
+- [`../project/systems/01-마법-시스템.md`](../project/systems/01-마법-시스템.md) — 마나 점화 (폐허 마탑 첫 점화)
+- [`../project/systems/01-마법-시스템.md`](../project/systems/01-마법-시스템.md) — *세상을 미워하는 자는 마나를 다루지 마라* 문장의 원 출처
 
 ### 인물·서사
-- [`../characters.md`](../characters.md) — 카엘 / 알린 (부친) / 단 / 단의 모친 / 마을 최고령자
-- [`../characters-psychology.md`](../characters-psychology.md) — 카엘 유년·알린 *침묵의 16년* 심리
-- [`../synopsis.md`](../synopsis.md) — Ch1 매크로 비트 표
-- [`../style-guide.md`](../style-guide.md) — 3인칭 근접 톤·잔향의 후각 메타포
+- [`../project/novel/characters.md`](../project/novel/characters.md) — 카엘 / 알린 (부친) / 단 / 단의 모친 / 마을 최고령자
+- [`../project/novel/characters-psychology.md`](../project/novel/characters-psychology.md) — 카엘 유년·알린 *침묵의 16년* 심리
+- [`../project/novel/synopsis.md`](../project/novel/synopsis.md) — Ch1 매크로 비트 표
+- [`../project/novel/style-guide.md`](../project/novel/style-guide.md) — 3인칭 근접 톤·잔향의 후각 메타포
 
 ### 아티팩트
 - *친조부의 책* (= 그라스 카르엔 학파 잠적 분파 사본) — Part 4~6·Ch2 P3 회수
